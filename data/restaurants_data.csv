@@ -1,0 +1,1001 @@
+ID,name,category,price_tear,neighborhood,open_hour,close_hour,avg_rating,forKids
+1,Khichdi Etc,Brasserie and Bistro,cheap,Washington Height,01:00,20:00,4,1
+2,The Sugar Fairy,Chinese,medium,Prospect Heights,00:00,16:00,2,0
+3,Lijjat Khaman,Lebanese,expensive,Lower East Side,08:00,23:00,5,0
+4,Empire Restaurant,Indian,cheap,Midtown East,03:00,16:00,4,0
+5,Bharat Krishna Bakery,Ethnic,medium,Canarsie,00:00,15:00,1,1
+6,R Kitchen - Renaissance Hotel,Destination Restaurant,expensive,Hell's Kitchen,10:00,17:00,5,1
+7,Rajkamal Bakery,Turkish,cheap,East Harlem,11:00,12:00,4,1
+8,Yanki Sizzlers,Destination Restaurant,medium,Prospect Heights,02:00,13:00,2,1
+9,Dhoom Dhaam,Pakistani,expensive,Hamilton Heights,10:00,20:00,2,0
+10,Nanjing,Buffet,medium,Flatbush,02:00,16:00,3,1
+11,Dolci Desserts,Pakistani,medium,Lower Manhattan,01:00,17:00,5,1
+12,Shri Jay Jalaram Khaman House,Coffee,medium,Gramercy Park,03:00,19:00,1,1
+13,Burgrill,Fine Dining,medium,Red Hook,06:00,14:00,4,1
+14,Amnesia - Aarya Grand,Brasserie and Bistro,cheap,Lower Manhattan,03:00,12:00,2,1
+15,M Cafe - Bengaluru Marriott Hotel Whitefield,Cafe,cheap,Flushing,11:00,23:00,1,0
+16,All The Perks Espresso Cafe,Tabletop cooking,medium,Upper East Side,04:00,20:00,5,0
+17,Dangee Dums Yums,Buffet,medium,Prospect Heights,02:00,13:00,4,1
+18,Shiro,Continental,expensive,Union Square,04:00,20:00,4,1
+19,Fire Station,Continental,cheap,Long Island City,03:00,12:00,1,1
+20,JW Kitchen - JW Marriott Bengaluru,Premium Casual,medium,Canarsie,08:00,20:00,4,0
+21,The Blue Wagon - Kitchen,Destination Restaurant,medium,Financial District,07:00,23:00,5,0
+22,Ranganna Military Hotel,Pakistani,cheap,Red Hook,01:00,15:00,3,1
+23,JW Kitchen - JW Marriott Bengaluru,Brasserie and Bistro,medium,Lower Manhattan,00:00,19:00,2,1
+24,Stoner,Buffet,cheap,Bushwick,05:00,18:00,1,1
+25,Vanilla The Cake Shop,Fine Dining,medium,Inwood,05:00,16:00,2,0
+26,70 Degrees East,Chinese,cheap,Nolita,06:00,12:00,3,1
+27,Nini's Kitchen,Pakistani,medium,Union Square,05:00,18:00,1,1
+28,Bhookh Lagi Hai,Destination Restaurant,medium,East Village,10:00,16:00,2,0
+29,Tea Villa Cafe,Fast Food,medium,Flatbush,00:00,12:00,5,0
+30,The Chocolate Heaven,Lebanese,medium,Murray Hill,01:00,17:00,2,0
+31,Little French House,Ethnic,cheap,Dumbo,04:00,23:00,5,1
+32,Massala Theoryy,Chinese,cheap,Long Island City,04:00,17:00,2,1
+33,O Chicken India -  Oil Free Healthy Chicken,Italian,cheap,Gramercy Park,01:00,12:00,1,0
+34,Midnight Cakery,Cafe,expensive,Nolita,07:00,00:00,3,0
+35,Little French House,Fast Food,medium,Midtown East,09:00,19:00,2,1
+36,Big Bite Fast Food,Cafe,medium,Prospect Heights,02:00,16:00,3,0
+37,Riwaz - The Ritz-Carlton,Fast Food,medium,Chinatown,06:00,22:00,1,0
+38,Sundarams,Greasy Spoon,expensive,Upper West Side,04:00,15:00,4,1
+39,La Casa Brewery And Kitchen,Buffet,medium,SoHo,02:00,11:00,3,1
+40,Sri Krishna Upahara,Italian,expensive,Long Island City,07:00,13:00,2,1
+41,Manjit Da Dhaba,Thai,cheap,Lower East Side,01:00,17:00,4,1
+42,City Buzz Reloaded,Family Style,medium,Flatbush,02:00,15:00,4,0
+43,Mocha,Fine Dining,cheap,Flatbush,08:00,23:00,4,0
+44,Giselle Resto Cafe,Tabletop cooking,medium,Murray Hill,01:00,13:00,3,0
+45,The Chocolate Heaven,Indian,cheap,Flatbush,10:00,23:00,3,1
+46,Brown & Happy,Buffet,expensive,Lower East Side,07:00,15:00,2,1
+47,FourFolks,Indian,expensive,Long Island City,09:00,18:00,4,1
+48,Biryani By Kilo,Thai,cheap,Bushwick,05:00,12:00,5,0
+49,Bake Ur Wish,Coffee,cheap,East Village,07:00,16:00,4,1
+50,Taaza Thindi,Buffet,expensive,Little Italy,10:00,20:00,4,1
+51,Tangled,Premium Casual,medium,Gramercy Park,02:00,16:00,2,1
+52,Kylin Experience,Family Style,medium,Marble Hill,03:00,19:00,4,0
+53,Kebabs & Kurries - ITC Gardenia,Fast Food,cheap,SoHo,04:00,12:00,4,1
+54,The Secret Kitchen,Ethnic,cheap,Fort Greene,09:00,16:00,5,1
+55,Mane Holige,Greasy Spoon,cheap,Lower East Side,02:00,21:00,4,0
+56,Tucker's House,Casual Dining,expensive,Little Italy,01:00,13:00,5,0
+57,Baba Dairy,Fast Casual,cheap,Canarsie,00:00,23:00,3,0
+58,Incanto - The Zuri,Greasy Spoon,cheap,Long Island City,03:00,23:00,3,1
+59,Hashtag,Italian,expensive,Murray Hill,03:00,18:00,1,1
+60,Gods Own Cafe,Premium Casual,cheap,Flatiron District,08:00,22:00,4,0
+61,Hardy's Cafe,Buffet,medium,Gramercy Park,09:00,23:00,1,1
+62,Loft,Lebanese,medium,Williamsburg,09:00,14:00,5,1
+63,Cake Zone,Fine Dining,medium,East Harlem,03:00,17:00,1,0
+64,Onesta,Casual Dining,expensive,Greenwich Village,01:00,23:00,4,0
+65,Maruti Dining Hall,Indian,expensive,Lower East Side,03:00,21:00,5,0
+66,Zen - The Leela Palace,Indian,expensive,Gramercy Park,10:00,21:00,1,1
+67,Rp's Pizzeria,Italian,cheap,Upper West Side,01:00,16:00,4,1
+68,Pradhan Dhaba,Turkish,expensive,Astoria,06:00,20:00,3,1
+69,Fresh Roast - Mani Mansion,Continental,medium,Financial District,01:00,20:00,1,0
+70,The Hedgehog Café,Casual Dining,medium,Upper East Side,04:00,14:00,3,1
+71,Nanjing,Fast Food,expensive,Washington Height,10:00,11:00,5,0
+72,Dhuaan,Coffee,medium,Little Italy,08:00,18:00,5,1
+73,Pizza Galleria,Fast Casual,medium,Morningside Heights,09:00,20:00,1,1
+74,Juggernaut,Indian,medium,Prospect Heights,07:00,11:00,3,0
+75,Appetize The Bistro,Thai,cheap,Long Island City,01:00,20:00,5,1
+76,Capital Bakery,Indian,expensive,Bushwick,01:00,00:00,2,1
+77,Bollywood Lounge,Buffet,cheap,Gramercy Park,00:00,17:00,2,1
+78,Classic 44,Chinese,medium,Gramercy Park,07:00,19:00,2,0
+79,Cafe Soul Desires,Lebanese,cheap,Brooklyn Heights,04:00,23:00,1,1
+80,Café 77 East - Taj Bangalore,Lebanese,expensive,Tribeca,04:00,14:00,3,0
+81,The Globe Grub,Indian,cheap,Battery Park City,08:00,21:00,3,1
+82,Xtreme Sports Bar & Grill,Greasy Spoon,expensive,Financial District,01:00,20:00,3,0
+83,Cafe De Italiano,Destination Restaurant,medium,Park Slope,03:00,17:00,5,1
+84,JnJ's,Greasy Spoon,expensive,Harlem,02:00,21:00,1,1
+85,Shiro,Thai,medium,Marble Hill,06:00,11:00,5,0
+86,Cocoa Drama,Destination Restaurant,medium,Marble Hill,11:00,21:00,4,1
+87,Wagh Bakri Tea Lounge,Fast Food,cheap,Lower East Side,09:00,00:00,2,0
+88,Narula Bakery,Fast Food,cheap,Harlem,01:00,13:00,1,1
+89,Bakingo,Pakistani,medium,Fort Greene,03:00,14:00,4,0
+90,Khichdi Etc,Cafe,expensive,Battery Park City,08:00,19:00,1,0
+91,Timpani - Radisson Blu,Greasy Spoon,cheap,Harlem,10:00,22:00,5,0
+92,Jack Bakers,Coffee,cheap,Hamilton Heights,06:00,21:00,4,1
+93,The Hole In The Wall Cafe,Brasserie and Bistro,expensive,Astoria,01:00,19:00,4,0
+94,Laxmi Bakery,Greasy Spoon,cheap,Brooklyn Heights,06:00,11:00,4,1
+95,Vidyarthi Bhavan,Italian,expensive,Union Square,05:00,22:00,2,1
+96,Fresh Roast - Mani Mansion,Lebanese,expensive,Flatiron District,10:00,19:00,2,1
+97,Shang Palace - Shangri-La Hotel,Thai,medium,Greenpoint,10:00,19:00,4,1
+98,ANTIGRAVITY,Buffet,cheap,Fort Greene,04:00,14:00,3,1
+99,Chilli 65,Buffet,expensive,Marble Hill,06:00,14:00,2,0
+100,The Kronks,Casual Dining,cheap,Gramercy Park,01:00,00:00,5,0
+101,Sidewalk - The Garden Bar,Thai,expensive,Union Square,06:00,11:00,3,1
+102,Karavalli - The Gateway Hotel,Mongolian barbecue,expensive,Gramercy Park,09:00,11:00,3,1
+103,HOP - Double Tree By Hilton,Lebanese,cheap,Prospect Heights,08:00,23:00,3,1
+104,HVR Veg,Casual Dining,expensive,Flatiron District,06:00,22:00,1,0
+105,Truffles,Buffet,medium,Canarsie,10:00,18:00,3,1
+106,Tamarind - Taj Bangalore,Coffee,cheap,Harlem,06:00,22:00,5,1
+107,The Tasty Hub,Chinese,medium,Morningside Heights,04:00,00:00,2,1
+108,Dhaba Estd. 1986 Delhi,Casual Dining,medium,Canarsie,06:00,14:00,1,1
+109,Mavalli Tiffin Room (MTR),Turkish,cheap,Nolita,06:00,23:00,5,1
+110,Brew Bros,Greasy Spoon,medium,Lower East Side,00:00,11:00,4,1
+111,Gwalia Sweets,Chinese,expensive,Morningside Heights,03:00,23:00,1,0
+112,Citrus Cafe - Lemon Tree Premier,Pakistani,expensive,Gramercy Park,06:00,18:00,3,1
+113,Chili's,Brasserie and Bistro,cheap,Nolita,04:00,16:00,1,0
+114,Royal Punjab Paratha,Family Style,cheap,East Village,11:00,21:00,2,0
+115,Tijouri - Radisson Blu Atria,Thai,medium,Washington Height,03:00,21:00,3,1
+116,PunChin,Casual Dining,cheap,Upper West Side,01:00,20:00,5,0
+117,New Capital Bakery,Fast Food,expensive,Union Square,10:00,18:00,4,1
+118,Spice Terrace - JW Marriott,Buffet,cheap,Bushwick,04:00,19:00,2,1
+119,99 Pancakes,Ethnic,expensive,Long Island City,03:00,19:00,4,1
+120,Chandigarh Baking Company - JW Marriott,Destination Restaurant,medium,Flatiron District,08:00,13:00,5,0
+121,Mooch Marod,Family Style,cheap,Financial District,02:00,12:00,5,1
+122,Skytouch Le Cafe,Lebanese,cheap,Hamilton Heights,09:00,18:00,3,0
+123,Baithak,Mongolian barbecue,expensive,Astoria,03:00,13:00,1,0
+124,Dravida - The Fern,Ethnic,expensive,Upper West Side,06:00,12:00,5,1
+125,Sotally Tober,Cafe,cheap,Greenpoint,07:00,00:00,4,0
+126,Mane Holige,Thai,cheap,SoHo,09:00,21:00,1,1
+127,Dialogue Cafe,Family Style,medium,Red Hook,04:00,16:00,1,0
+128,The Home Cake Studio,Casual Dining,cheap,Murray Hill,11:00,12:00,2,0
+129,Feast - Sheraton Grand Bengaluru Whitefield Hotel & Convention Centre,Lebanese,expensive,Red Hook,10:00,17:00,4,0
+130,Bombay Adda,Lebanese,medium,Tribeca,11:00,21:00,2,0
+131,Tucker's House,Pakistani,cheap,Tribeca,09:00,16:00,5,0
+132,CakeAReuni,Buffet,medium,SoHo,04:00,21:00,2,0
+133,Loft,Coffee,medium,Flatbush,09:00,16:00,5,1
+134,Just Shawarma,Family Style,medium,Nolita,03:00,15:00,3,1
+135,Hotel Aditya,Brasserie and Bistro,medium,Harlem,00:00,23:00,1,0
+136,Salvadores,Buffet,medium,Morningside Heights,02:00,12:00,2,1
+137,Cinnabon,Casual Dining,cheap,Murray Hill,03:00,13:00,3,0
+138,And Me Cafe,Turkish,expensive,Tribeca,08:00,16:00,1,1
+139,The Escape,Greasy Spoon,medium,Inwood,06:00,17:00,1,1
+140,Choc-o-Den,Indian,expensive,Brooklyn Heights,09:00,19:00,4,0
+141,Special Amritsari Kulcha,Continental,cheap,Union Square,04:00,18:00,1,0
+142,Roots,Thai,medium,Chinatown,10:00,22:00,1,1
+143,The Black Pearl,Buffet,medium,Flatiron District,11:00,14:00,4,0
+144,Road Side Bells,Chinese,expensive,Nolita,10:00,17:00,4,0
+145,Al-Noor Biryani Centre,Thai,medium,Prospect Heights,06:00,13:00,1,1
+146,New Polka Bakery,Thai,expensive,Gramercy Park,00:00,15:00,1,0
+147,Deccan Paradise,Pakistani,cheap,Battery Park City,10:00,12:00,5,1
+148,Backpackers Cafe,Buffet,cheap,Canarsie,02:00,15:00,3,0
+149,New Polka Pastry Shop,Premium Casual,cheap,Flushing,10:00,20:00,2,0
+150,Cake Culture,Thai,expensive,Harlem,04:00,15:00,1,0
+151,Cakes 'N' Stuff,Family Style,expensive,Hell's Kitchen,02:00,12:00,2,0
+152,Salvadores,Pakistani,medium,Upper East Side,05:00,13:00,2,1
+153,Flax,Italian,cheap,Little Italy,07:00,12:00,3,0
+154,1131 Bar + Kitchen,Cafe,cheap,Lower East Side,01:00,21:00,4,1
+155,Upri Manzil,Greasy Spoon,expensive,Park Slope,01:00,13:00,1,0
+156,Manek Sandwich & Pizza,Greasy Spoon,cheap,East Village,04:00,17:00,1,1
+157,Jassi De Parathe,Thai,expensive,Marble Hill,07:00,15:00,3,0
+158,Dangee Dums,Tabletop cooking,expensive,Murray Hill,02:00,15:00,4,0
+159,TGIH - Thank God It's Healthy,Ethnic,cheap,Washington Height,02:00,15:00,4,1
+160,CAFÈ JC's,Casual Dining,expensive,Tribeca,03:00,23:00,5,0
+161,The Escape,Premium Casual,expensive,Lower East Side,06:00,22:00,3,0
+162,Wagh Bakri Tea Lounge,Fast Casual,medium,Chinatown,09:00,20:00,3,1
+163,City Buzz Reloaded,Brasserie and Bistro,medium,Harlem,06:00,23:00,4,0
+164,The Tasty Hub,Ethnic,medium,SoHo,03:00,12:00,3,0
+165,Kaffee - Mast Hai,Lebanese,medium,Upper East Side,03:00,21:00,2,0
+166,Hoglatto,Brasserie and Bistro,medium,Midtown East,10:00,19:00,5,0
+167,Curries,Indian,expensive,Battery Park City,00:00,18:00,1,1
+168,Petite Sweet,Lebanese,medium,Flushing,04:00,13:00,5,0
+169,Dialogue Cafe,Thai,cheap,Nolita,03:00,22:00,5,0
+170,Road Side Bells,Mongolian barbecue,expensive,Lower East Side,03:00,13:00,4,0
+171,Gardenia - Fortune Park,Greasy Spoon,expensive,Tribeca,01:00,11:00,1,1
+172,Gordhan Thaal,Ethnic,cheap,Nolita,05:00,17:00,4,0
+173,Redberrys,Casual Dining,cheap,Lower East Side,07:00,23:00,5,1
+174,Foxtrot - House of Subculture,Pakistani,cheap,Bushwick,09:00,22:00,5,0
+175,Baker's Oven,Fine Dining,expensive,Canarsie,00:00,15:00,2,0
+176,Royal Punjab Paratha,Thai,medium,Long Island City,11:00,19:00,3,0
+177,Cake Way 70,Casual Dining,medium,Hamilton Heights,03:00,21:00,4,1
+178,Cakes N Bakes,Premium Casual,medium,Midtown East,02:00,18:00,1,1
+179,Indore Chat House,Buffet,expensive,Lower East Side,09:00,14:00,5,0
+180,The Secret Kitchen,Italian,expensive,Nolita,02:00,18:00,1,0
+181,La Patisserie,Brasserie and Bistro,cheap,Flushing,03:00,23:00,1,0
+182,Creamoholic Cafe & Restaurant,Coffee,cheap,Bushwick,00:00,23:00,5,0
+183,Hardy's Cafe,Turkish,expensive,Gramercy Park,04:00,13:00,5,1
+184,The Great Kabab Factory - Radisson Blu,Tabletop cooking,medium,Greenpoint,05:00,18:00,4,1
+185,Biryani By Kilo,Thai,expensive,Midtown East,01:00,20:00,3,1
+186,Popular Burger,Continental,medium,Lower East Side,10:00,16:00,4,1
+187,Barbeque Nation,Premium Casual,cheap,Washington Height,11:00,14:00,5,0
+188,Starbucks Coffee,Continental,cheap,Morningside Heights,00:00,17:00,3,0
+189,Dose Manjanna,Brasserie and Bistro,expensive,Long Island City,10:00,23:00,5,1
+190,The Reservoire,Fast Casual,medium,Greenwich Village,09:00,22:00,3,0
+191,Mocha,Mongolian barbecue,expensive,Financial District,10:00,22:00,4,1
+192,Blue Tokai Coffee Roasters,Premium Casual,cheap,Tribeca,02:00,12:00,4,0
+193,Yo! China,Fast Casual,expensive,Flatbush,08:00,00:00,4,0
+194,Jashuben Shah Old Pizza,Greasy Spoon,expensive,East Village,04:00,21:00,4,0
+195,Roots,Pakistani,cheap,Morningside Heights,09:00,16:00,2,1
+196,Justbe Resto Cafe,Continental,expensive,Hamilton Heights,05:00,20:00,4,0
+197,South Leaf- The Food Chain,Fast Food,medium,Battery Park City,05:00,12:00,4,0
+198,SandwichworkZ - The Fusion Street Cafe,Fine Dining,medium,Flatiron District,03:00,22:00,3,0
+199,Tangled,Fast Casual,expensive,Astoria,04:00,12:00,4,1
+200,Desi Stuff,Greasy Spoon,expensive,East Village,08:00,17:00,3,1
+201,Kamal & Kamal Confectioner,Destination Restaurant,expensive,Upper West Side,07:00,19:00,1,0
+202,Lezzetli,Cafe,cheap,Fort Greene,03:00,19:00,5,1
+203,Cake Zone,Buffet,medium,Financial District,02:00,15:00,2,1
+204,Roots,Premium Casual,cheap,Chelsea,08:00,14:00,5,0
+205,Skyline Pizzeria,Fast Food,expensive,Fort Greene,08:00,22:00,1,1
+206,Indore Chat House,Ethnic,cheap,Morningside Heights,07:00,16:00,4,1
+207,Dice N Dine,Destination Restaurant,cheap,Bushwick,05:00,13:00,4,1
+208,Bake Me Away,Italian,cheap,Financial District,02:00,17:00,4,0
+209,Pasta Street,Buffet,medium,Murray Hill,06:00,23:00,1,0
+210,Amigo's Cafe,Buffet,medium,Gramercy Park,05:00,17:00,5,0
+211,Choice Snack Bar,Fine Dining,cheap,Bushwick,11:00,20:00,5,0
+212,M Cafe - Bengaluru Marriott Hotel Whitefield,Family Style,medium,Greenwich Village,07:00,23:00,1,1
+213,The Hole In The Wall Cafe,Greasy Spoon,medium,Little Italy,02:00,22:00,1,0
+214,Anand,Family Style,medium,Gramercy Park,04:00,22:00,5,0
+215,Chai Galli,Brasserie and Bistro,expensive,Astoria,07:00,23:00,5,1
+216,Castle Grill,Turkish,cheap,Greenwich Village,02:00,13:00,1,1
+217,Sphere Lounge - Hotel Ramada,Greasy Spoon,cheap,Inwood,04:00,00:00,2,1
+218,The German Bakers,Fine Dining,expensive,East Village,09:00,22:00,3,1
+219,La Patron Cafe,Chinese,cheap,Upper West Side,03:00,12:00,1,0
+220,CUR8 - Four Seasons Hotel,Thai,expensive,Flatiron District,06:00,15:00,5,0
+221,Cubbon Pavilion - ITC Gardenia,Greasy Spoon,medium,Union Square,11:00,19:00,3,0
+222,The Market - The Ritz-Carlton,Premium Casual,expensive,Williamsburg,06:00,15:00,5,0
+223,Levels Cafe,Indian,cheap,Battery Park City,09:00,20:00,1,0
+224,Bayleaf - Courtyard By Marriott,Thai,expensive,Prospect Heights,07:00,19:00,3,0
+225,Caprese - Shangri-La Hotel,Turkish,medium,Murray Hill,08:00,16:00,5,1
+226,Benares,Casual Dining,medium,Williamsburg,05:00,23:00,5,0
+227,Tomato's,Cafe,cheap,Flushing,06:00,12:00,3,0
+228,Stoner,Continental,expensive,Flatbush,08:00,13:00,5,0
+229,Starbucks Coffee,Fast Food,expensive,Financial District,10:00,15:00,3,0
+230,Cakewala,Destination Restaurant,expensive,Red Hook,05:00,20:00,4,0
+231,Karnawati Dabeli Centre,Continental,medium,Chelsea,08:00,18:00,3,0
+232,The Filter Coffee,Italian,cheap,East Harlem,09:00,14:00,1,1
+233,Bansal Namkeen,Cafe,expensive,Flatbush,07:00,11:00,3,1
+234,Udupi Shree Darshini Restaurant,Tabletop cooking,cheap,Harlem,02:00,00:00,3,0
+235,Preet Eating Zone,Destination Restaurant,medium,Lower East Side,08:00,17:00,5,1
+236,Bisaat,Italian,cheap,Hell's Kitchen,07:00,22:00,4,0
+237,Tiffin Room - Miraya Hotel & Residences,Continental,medium,East Harlem,11:00,18:00,5,1
+238,Just Bake,Fast Casual,medium,Lower Manhattan,06:00,11:00,2,1
+239,Dyu Art Cafe,Indian,cheap,Lower East Side,06:00,17:00,2,0
+240,TGIH - Thank God It's Healthy,Coffee,medium,Battery Park City,06:00,16:00,4,0
+241,Magic Oven,Continental,medium,Financial District,08:00,14:00,4,0
+242,DP Cake Studio,Family Style,medium,Flushing,08:00,20:00,1,1
+243,Baker's Home,Turkish,cheap,Washington Height,09:00,20:00,3,0
+244,Onesta,Pakistani,medium,Long Island City,09:00,12:00,2,1
+245,Mainland China,Buffet,cheap,Williamsburg,01:00,11:00,2,0
+246,UFO Fries & Corn,Italian,medium,Morningside Heights,08:00,14:00,3,0
+247,HOP - Double Tree By Hilton,Indian,expensive,Red Hook,06:00,19:00,4,0
+248,Shiro,Fast Casual,cheap,Financial District,03:00,16:00,5,0
+249,Masala Mandi,Chinese,cheap,Battery Park City,02:00,14:00,2,0
+250,Sotally Tober,Brasserie and Bistro,expensive,Upper West Side,04:00,17:00,5,1
+251,The Humble Pie,Mongolian barbecue,expensive,Upper West Side,03:00,13:00,2,1
+252,Midpoint Cafe,Tabletop cooking,cheap,Harlem,01:00,16:00,1,0
+253,TAB - Take A Break,Coffee,cheap,Hell's Kitchen,05:00,13:00,5,1
+254,IDC Kitchen,Casual Dining,cheap,Brooklyn Heights,05:00,13:00,1,1
+255,Dyu Art Cafe,Family Style,cheap,Flushing,09:00,15:00,4,1
+256,Amnesia - Aarya Grand,Brasserie and Bistro,expensive,Hamilton Heights,03:00,11:00,1,0
+257,Fish Factory-Citrus Hotel,Thai,expensive,Chelsea,00:00,00:00,1,1
+258,Gopal Ji Confectioners,Greasy Spoon,cheap,SoHo,05:00,12:00,4,0
+259,Sattvam,Thai,medium,Union Square,05:00,00:00,2,0
+260,Rich Bites Cake & Snacks,Thai,cheap,Hamilton Heights,02:00,22:00,3,0
+261,Kabir Restaurant,Mongolian barbecue,cheap,Flushing,10:00,23:00,5,1
+262,National Bakers,Continental,expensive,Upper West Side,01:00,22:00,1,0
+263,Cake n Bake,Turkish,medium,Canarsie,03:00,16:00,1,1
+264,Amintiri,Chinese,expensive,Red Hook,09:00,16:00,4,1
+265,Kazé,Buffet,expensive,Boerum Hill,09:00,15:00,4,1
+266,The Horseshoe Bar Exchange,Thai,cheap,Lower East Side,04:00,19:00,2,0
+267,Happy Belly Bakes,Pakistani,medium,Greenpoint,04:00,17:00,4,0
+268,Sweet Truth,Brasserie and Bistro,expensive,Red Hook,01:00,16:00,3,1
+269,Here & Now,Coffee,expensive,Bushwick,04:00,18:00,5,1
+270,Spice Terrace - JW Marriott,Chinese,expensive,Greenwich Village,07:00,17:00,1,1
+271,Mavalli Tiffin Room (MTR),Casual Dining,medium,Williamsburg,07:00,17:00,2,1
+272,Le Terrace Café,Continental,medium,Midtown East,04:00,20:00,4,0
+273,Hashtag,Turkish,medium,Astoria,10:00,00:00,3,0
+274,GYLT,Family Style,expensive,Tribeca,10:00,20:00,1,1
+275,Barbeque Nation,Pakistani,expensive,Murray Hill,01:00,14:00,3,0
+276,Jashuben Shah Old Pizza,Mongolian barbecue,expensive,Greenpoint,11:00,22:00,4,1
+277,Kamal & Kamal Confectioner,Italian,medium,Flushing,05:00,19:00,1,1
+278,Hunka Hunka Town,Fine Dining,medium,Williamsburg,08:00,15:00,2,0
+279,Cafe Azzure,Premium Casual,cheap,Harlem,00:00,14:00,3,0
+280,Indulgence,Fine Dining,expensive,Battery Park City,06:00,12:00,2,0
+281,Chianti,Lebanese,expensive,Greenpoint,09:00,18:00,2,1
+282,Hunnybun,Destination Restaurant,cheap,Prospect Heights,07:00,18:00,3,0
+283,Vidyarthi Bhavan,Ethnic,medium,Fort Greene,11:00,13:00,3,1
+284,National Bakery,Mongolian barbecue,medium,Lower East Side,03:00,18:00,4,0
+285,Kylin Experience,Mongolian barbecue,expensive,Battery Park City,04:00,18:00,3,0
+286,Friends Baker,Premium Casual,cheap,Boerum Hill,06:00,17:00,2,0
+287,Cafe Medley,Buffet,medium,Flushing,10:00,20:00,4,0
+288,Shreejikrupa,Lebanese,cheap,Little Italy,09:00,20:00,3,0
+289,Namaste,Coffee,expensive,Chelsea,04:00,19:00,3,1
+290,Gajanand Food,Family Style,cheap,Morningside Heights,10:00,21:00,5,0
+291,Aroma - Crowne Plaza,Ethnic,cheap,Greenpoint,03:00,19:00,1,0
+292,Royal Afghan - ITC Windsor,Italian,expensive,Flushing,08:00,22:00,2,0
+293,Glen's Bakehouse,Fine Dining,expensive,Flushing,04:00,23:00,5,1
+294,Midpoint Cafe,Lebanese,medium,Nolita,02:00,21:00,1,1
+295,Communiti,Destination Restaurant,cheap,Greenwich Village,08:00,20:00,1,0
+296,ibaco,Greasy Spoon,cheap,Tribeca,01:00,12:00,3,1
+297,Jack Bakers,Pakistani,medium,Morningside Heights,05:00,18:00,1,0
+298,Cravy Wings,Premium Casual,expensive,Lower East Side,05:00,17:00,3,1
+299,Starbucks Coffee,Brasserie and Bistro,expensive,Battery Park City,02:00,11:00,5,1
+300,85 Degrees C,Turkish,medium,Nolita,10:00,11:00,2,1
+301,The Chocolate Room,Fast Food,medium,Morningside Heights,04:00,11:00,1,0
+302,Curries,Greasy Spoon,expensive,SoHo,05:00,21:00,4,1
+303,TGIH - Thank God It's Healthy,Ethnic,expensive,Harlem,09:00,22:00,3,0
+304,Cream N Crunch,Cafe,cheap,Upper East Side,05:00,18:00,4,0
+305,Purani Dilli By Anand Sweets,Fast Casual,medium,Tribeca,02:00,16:00,3,0
+306,Harry's Kitchen,Chinese,medium,Inwood,04:00,14:00,2,0
+307,Starbucks Coffee,Mongolian barbecue,medium,Harlem,02:00,12:00,2,0
+308,The Pizza Story,Mongolian barbecue,medium,Washington Height,02:00,17:00,1,1
+309,Chikkanna Tiffin Room,Pakistani,medium,East Harlem,01:00,21:00,2,1
+310,Kebabs & Kurries - ITC Gardenia,Fast Casual,cheap,Park Slope,00:00,18:00,4,1
+311,The Finch,Italian,cheap,Nolita,02:00,17:00,5,0
+312,1131 Bar + Kitchen,Chinese,expensive,Greenpoint,02:00,11:00,5,0
+313,Bharat Bistro,Turkish,cheap,Long Island City,10:00,14:00,4,0
+314,CakeAReuni,Ethnic,expensive,Greenpoint,10:00,20:00,5,1
+315,Lavonne,Turkish,expensive,Brooklyn Heights,05:00,19:00,3,1
+316,AB's - Absolute Barbecue,Fast Food,medium,Little Italy,04:00,00:00,4,1
+317,Mongini's,Coffee,expensive,Park Slope,09:00,14:00,3,1
+318,Pirates Of Grill,Cafe,cheap,Boerum Hill,02:00,21:00,4,1
+319,Dot Yum - Hotel Aloft,Family Style,expensive,Prospect Heights,02:00,21:00,5,1
+320,Shree Ambika Dalvada Centre,Brasserie and Bistro,expensive,East Harlem,04:00,12:00,2,0
+321,Hungry Hippie,Lebanese,expensive,Inwood,00:00,22:00,2,0
+322,Lamhe,Casual Dining,medium,Marble Hill,08:00,00:00,5,0
+323,Popular Burger,Indian,medium,Lower Manhattan,05:00,16:00,2,0
+324,Polo Club - The Oberoi,Cafe,expensive,Red Hook,06:00,19:00,5,1
+325,Patisserie Nitash,Continental,cheap,Chinatown,08:00,23:00,2,1
+326,Ssaffron - Shangri-La Hotel,Fast Casual,cheap,Financial District,00:00,15:00,1,1
+327,Al Amanah Cafe,Premium Casual,medium,Tribeca,11:00,15:00,2,1
+328,O Chicken India -  Oil Free Healthy Chicken,Continental,cheap,East Harlem,10:00,13:00,4,0
+329,Burma Burma,Pakistani,medium,Little Italy,01:00,20:00,4,1
+330,Upsouth,Thai,expensive,Flatiron District,09:00,23:00,2,1
+331,Alto Vino - Bengaluru Marriott Hotel Whitefield,Ethnic,cheap,Greenpoint,09:00,16:00,4,0
+332,KFC,Chinese,medium,Union Square,02:00,17:00,2,1
+333,Café 77 East - Taj Bangalore,Continental,medium,Brooklyn Heights,07:00,00:00,4,1
+334,Mom Baker's,Casual Dining,expensive,Union Square,07:00,13:00,1,0
+335,The London Curry House - The Royale Senate Hotel,Tabletop cooking,expensive,Astoria,05:00,00:00,4,1
+336,Handi Biryani,Cafe,medium,Bushwick,05:00,11:00,4,1
+337,Nuage,Destination Restaurant,medium,Lower East Side,06:00,00:00,5,0
+338,Anand Sweets And Savouries,Coffee,medium,Chinatown,11:00,21:00,4,0
+339,Burgrill,Thai,cheap,Harlem,00:00,22:00,1,1
+340,Terracotta,Destination Restaurant,expensive,Hell's Kitchen,09:00,20:00,1,0
+341,The Salt Grill - Hilton Bangalore Embassy Golflinks,Fine Dining,cheap,Inwood,07:00,00:00,3,0
+342,Hungry Hippie,Lebanese,expensive,Tribeca,11:00,00:00,4,0
+343,Crumbs,Tabletop cooking,expensive,East Village,01:00,11:00,5,1
+344,La Pino'z Pizza,Chinese,expensive,Upper West Side,01:00,19:00,5,1
+345,Daddy Waffle,Fine Dining,expensive,Upper West Side,06:00,20:00,1,0
+346,The Big Bro,Turkish,medium,Financial District,07:00,20:00,1,0
+347,The Black Pearl,Fine Dining,cheap,Greenwich Village,02:00,13:00,1,0
+348,Cream N Crunch,Coffee,expensive,Midtown East,03:00,19:00,4,1
+349,Cupcake Corner,Pakistani,cheap,Brooklyn Heights,05:00,22:00,3,0
+350,Hardy's Cafe,Premium Casual,medium,Flushing,03:00,16:00,5,1
+351,Dak Bunglow,Family Style,cheap,East Village,08:00,23:00,5,0
+352,M Cafe - Bengaluru Marriott Hotel Whitefield,Buffet,expensive,Morningside Heights,11:00,17:00,4,1
+353,Uttam Sweets and Bakers,Chinese,expensive,East Village,10:00,14:00,2,1
+354,Ambica Dalvada and Khiru,Destination Restaurant,expensive,Canarsie,07:00,17:00,3,1
+355,Arogya Ahaara,Greasy Spoon,cheap,Marble Hill,01:00,22:00,1,0
+356,The Ganache Factory,Tabletop cooking,cheap,Murray Hill,06:00,13:00,3,0
+357,Shuddh Desi Khana,Fine Dining,medium,Brooklyn Heights,01:00,16:00,4,0
+358,Petu Pankaj,Chinese,medium,Murray Hill,02:00,13:00,5,1
+359,Jani Locho & Khaman House,Italian,medium,Chinatown,07:00,13:00,1,1
+360,Wasabi,Fine Dining,medium,Battery Park City,03:00,16:00,5,1
+361,Kurtoskalacs,Buffet,expensive,Tribeca,04:00,14:00,5,0
+362,The Square - Novotel,Buffet,medium,Harlem,05:00,17:00,4,0
+363,Sri Laxmi Venkateshwara Coffee Bar,Destination Restaurant,cheap,Red Hook,08:00,19:00,4,0
+364,Cookie's Jar By Geet And Vir,Mongolian barbecue,medium,Marble Hill,06:00,18:00,1,1
+365,Caffix - The Tech Cafe,Chinese,expensive,Flatbush,06:00,22:00,4,0
+366,Dominic Pizza,Fast Food,expensive,Battery Park City,01:00,18:00,5,1
+367,Dialogue Cafe,Casual Dining,expensive,Park Slope,01:00,21:00,2,0
+368,The Globe Grub,Casual Dining,expensive,Park Slope,08:00,14:00,4,0
+369,South Leaf- The Food Chain,Indian,medium,Brooklyn Heights,07:00,21:00,5,0
+370,Gurpal Bakers,Indian,medium,East Harlem,05:00,13:00,3,1
+371,Bake Addiction,Destination Restaurant,medium,Flushing,09:00,14:00,4,0
+372,Bisaat,Cafe,medium,Inwood,08:00,13:00,4,1
+373,The Cupcake Village,Coffee,cheap,Upper East Side,02:00,13:00,5,1
+374,Baluchi - The Lalit Ashok Bangalore,Fast Food,medium,Red Hook,08:00,22:00,3,0
+375,Gwalia Vanakkam,Fine Dining,cheap,Upper East Side,02:00,14:00,2,1
+376,Parosa,Indian,medium,Gramercy Park,07:00,21:00,1,1
+377,The Live Ice Cream Studio,Buffet,expensive,Little Italy,02:00,13:00,5,1
+378,New Freeze Land,Turkish,medium,SoHo,02:00,11:00,2,1
+379,Vince Cafe,Chinese,medium,Upper East Side,07:00,00:00,1,0
+380,Cubbon Pavilion - ITC Gardenia,Thai,cheap,Flatbush,08:00,23:00,1,0
+381,Chai Wai,Pakistani,cheap,Gramercy Park,05:00,21:00,2,1
+382,Cake Zone,Fast Casual,cheap,East Harlem,05:00,14:00,4,0
+383,Tandoor,Greasy Spoon,cheap,Greenpoint,01:00,18:00,5,1
+384,Skoolroom,Pakistani,medium,Upper East Side,02:00,14:00,5,1
+385,The Grand Thakar,Continental,medium,Greenwich Village,07:00,15:00,5,0
+386,Le Cirque Signature - The Leela Palace,Italian,expensive,Brooklyn Heights,06:00,19:00,5,0
+387,MTR 1924,Cafe,expensive,Washington Height,08:00,16:00,2,0
+388,Cafe Soul Desires,Premium Casual,medium,Little Italy,10:00,13:00,1,0
+389,The Salt Grill - Hilton Bangalore Embassy Golflinks,Casual Dining,cheap,Upper West Side,09:00,16:00,3,0
+390,The Coffee Bean & Tea Leaf,Destination Restaurant,medium,Greenpoint,02:00,14:00,2,0
+391,Vanilla The Bakery And Cafe,Fast Food,medium,Greenwich Village,08:00,21:00,2,1
+392,Alto Vino - Bengaluru Marriott Hotel Whitefield,Fast Casual,cheap,Boerum Hill,08:00,17:00,3,1
+393,Sonia's Cakes N All,Casual Dining,cheap,Park Slope,02:00,19:00,4,0
+394,Yauatcha,Casual Dining,medium,Nolita,04:00,18:00,1,0
+395,Raahi,Indian,expensive,Boerum Hill,03:00,17:00,5,1
+396,The Pallet,Mongolian barbecue,medium,Chinatown,03:00,20:00,3,0
+397,Taco Bell,Ethnic,medium,Red Hook,08:00,18:00,5,0
+398,Loft,Italian,medium,Bushwick,09:00,21:00,5,1
+399,Sri Krishna Upahara,Pakistani,medium,Chinatown,02:00,18:00,5,0
+400,Cake My Day,Indian,expensive,Harlem,06:00,22:00,3,0
+401,Rolls & Bowls,Premium Casual,cheap,Chelsea,03:00,19:00,4,1
+402,R Kitchen - Renaissance Hotel,Family Style,cheap,Chelsea,01:00,15:00,5,0
+403,Chilli 65,Family Style,medium,Greenpoint,03:00,13:00,4,0
+404,Cafe De Macaron,Coffee,expensive,Long Island City,02:00,20:00,5,0
+405,Friends Baker,Thai,expensive,Inwood,01:00,20:00,2,0
+406,Qizo,Ethnic,expensive,East Harlem,04:00,12:00,2,0
+407,Desi Stuff,Continental,cheap,Long Island City,03:00,22:00,5,0
+408,Lavonne,Buffet,cheap,Canarsie,04:00,22:00,2,1
+409,Unlocked,Thai,medium,Astoria,04:00,21:00,3,0
+410,Dakshinayan,Cafe,expensive,Morningside Heights,09:00,13:00,3,1
+411,Chef's Pizza,Fast Food,medium,East Harlem,05:00,20:00,1,1
+412,Roastery Cultur - The Coffee Company,Brasserie and Bistro,medium,Bushwick,10:00,16:00,3,0
+413,Biskut,Fast Food,cheap,Flushing,06:00,11:00,1,0
+414,Alba - JW Marriott Bengaluru,Casual Dining,medium,Midtown East,03:00,18:00,2,1
+415,Bake Ur Wish,Italian,cheap,Flatiron District,01:00,13:00,4,1
+416,Oshwal,Pakistani,cheap,Dumbo,07:00,23:00,1,0
+417,Cafe Azzure,Fine Dining,expensive,Flushing,06:00,20:00,3,0
+418,Wagh Bakri Tea Lounge,Fine Dining,cheap,Astoria,05:00,23:00,3,0
+419,Nanjing,Greasy Spoon,expensive,Boerum Hill,02:00,11:00,5,0
+420,Rajwadu,Turkish,expensive,East Harlem,04:00,16:00,3,0
+421,Falashin Juices & Dishes,Mongolian barbecue,expensive,Little Italy,09:00,22:00,1,1
+422,Burgrill,Coffee,cheap,Union Square,07:00,19:00,1,1
+423,The Blue Wagon - Kitchen,Turkish,cheap,Lower East Side,10:00,16:00,1,1
+424,Caraway Kitchen - Conrad Bengaluru,Fast Casual,expensive,Fort Greene,04:00,22:00,2,0
+425,The Home Basket,Destination Restaurant,expensive,Gramercy Park,02:00,22:00,5,1
+426,The Square - Hotel Novotel,Family Style,cheap,Bushwick,02:00,17:00,2,1
+427,Sweet Truth,Indian,expensive,Upper East Side,08:00,19:00,2,1
+428,Moti Bakery,Fast Casual,cheap,Morningside Heights,08:00,18:00,1,0
+429,70 Degrees East,Brasserie and Bistro,cheap,Lower East Side,02:00,18:00,5,1
+430,Ek Roop Creations,Ethnic,cheap,Bushwick,04:00,13:00,5,1
+431,SuperYum,Italian,expensive,Washington Height,02:00,12:00,4,0
+432,Choc-o-Den,Greasy Spoon,cheap,Little Italy,04:00,17:00,1,0
+433,Citrus Cafe - Lemon Tree Premier,Continental,cheap,Union Square,03:00,19:00,4,1
+434,Peppa Zzing,Premium Casual,medium,Tribeca,02:00,13:00,4,1
+435,Sidewalk - The Garden Bar,Thai,expensive,Fort Greene,01:00,15:00,5,1
+436,Cake Story,Indian,cheap,Park Slope,01:00,15:00,1,0
+437,Stoner,Pakistani,medium,Red Hook,11:00,15:00,5,0
+438,Dum ka Zaika- Narayani Heights,Fast Food,cheap,Hamilton Heights,10:00,11:00,4,1
+439,Dyu Art Cafe,Thai,cheap,Gramercy Park,10:00,11:00,1,1
+440,Kaffee - Mast Hai,Mongolian barbecue,cheap,Dumbo,09:00,23:00,1,0
+441,Bistro Bois,Destination Restaurant,expensive,Chinatown,04:00,11:00,3,0
+442,Mahaveer Food Point,Thai,cheap,Inwood,04:00,19:00,5,1
+443,Bombay Adda,Destination Restaurant,expensive,Greenpoint,07:00,14:00,5,1
+444,Green Theory,Premium Casual,medium,Nolita,08:00,19:00,2,0
+445,Cafe Max,Mongolian barbecue,cheap,Astoria,08:00,14:00,4,1
+446,Forking Awesome,Thai,medium,Greenwich Village,03:00,12:00,5,0
+447,Pooja Parlour,Indian,cheap,Flushing,01:00,11:00,2,1
+448,Citrus Cafe - Lemon Tree Hotel,Turkish,medium,Red Hook,01:00,15:00,1,1
+449,Choco Obsession,Casual Dining,expensive,Long Island City,02:00,17:00,4,0
+450,Asha Tiffins,Lebanese,expensive,Flushing,04:00,23:00,1,0
+451,The Willow Cafe,Family Style,cheap,Murray Hill,04:00,11:00,1,1
+452,Manek Sandwich & Pizza,Chinese,medium,Upper West Side,02:00,16:00,2,0
+453,Thom's Bakery,Casual Dining,cheap,Bushwick,08:00,15:00,1,1
+454,California Burrito,Brasserie and Bistro,expensive,Tribeca,02:00,18:00,5,0
+455,Pooja Sweet Bakers & Fast Food,Brasserie and Bistro,medium,Williamsburg,03:00,11:00,3,0
+456,ANTIGRAVITY,Cafe,cheap,Boerum Hill,03:00,11:00,3,1
+457,Bread Crumbs Bakery,Fine Dining,medium,Brooklyn Heights,05:00,19:00,3,1
+458,Baithak,Tabletop cooking,medium,Dumbo,00:00,00:00,2,1
+459,The Mad House Café,Premium Casual,expensive,Park Slope,09:00,00:00,2,1
+460,Ayodhya Upachar,Continental,medium,Flushing,05:00,16:00,1,0
+461,Parcel,Cafe,expensive,Battery Park City,00:00,15:00,2,0
+462,Dice N Dine,Mongolian barbecue,medium,Hell's Kitchen,03:00,23:00,3,1
+463,Pirates Of Grill,Fine Dining,expensive,Nolita,10:00,22:00,4,0
+464,Communiti,Buffet,cheap,Brooklyn Heights,02:00,23:00,5,1
+465,Hardy's Cafe,Chinese,medium,Williamsburg,03:00,14:00,4,1
+466,The Dark Roast,Mongolian barbecue,expensive,East Harlem,10:00,21:00,1,0
+467,Das Khaman,Destination Restaurant,expensive,East Village,03:00,21:00,3,0
+468,Flax,Fast Casual,cheap,Union Square,09:00,20:00,1,0
+469,Sweet Truth,Fast Food,expensive,Astoria,10:00,12:00,4,1
+470,Cupcake Corner,Pakistani,expensive,Astoria,09:00,12:00,2,0
+471,The Eatery - Four Points by Sheraton,Destination Restaurant,expensive,Midtown East,11:00,14:00,2,1
+472,Chokhi Dhani,Continental,medium,Battery Park City,03:00,18:00,4,0
+473,Happy Belly Bakes,Pakistani,medium,Morningside Heights,03:00,18:00,4,0
+474,Charcoal Eats,Turkish,medium,Williamsburg,00:00,12:00,3,1
+475,Oshwal,Tabletop cooking,cheap,Lower East Side,04:00,20:00,4,1
+476,Feast - Sheraton Grand Bengaluru Whitefield Hotel & Convention Centre,Buffet,expensive,Flatiron District,01:00,12:00,2,1
+477,The Filter Coffee,Cafe,cheap,Inwood,09:00,17:00,4,1
+478,The Great Kabab Factory - Radisson Blu,Lebanese,medium,Upper East Side,05:00,20:00,1,0
+479,Playground,Greasy Spoon,expensive,Hamilton Heights,08:00,23:00,5,1
+480,Infinity - The Zuri,Buffet,medium,Park Slope,02:00,23:00,3,0
+481,Dak Bunglow,Fast Casual,expensive,Chelsea,04:00,14:00,4,0
+482,Vinnie's,Coffee,medium,Astoria,10:00,12:00,5,1
+483,Classic 44,Chinese,medium,Flatiron District,05:00,21:00,4,1
+484,Queso Y Cafe,Turkish,medium,Gramercy Park,00:00,17:00,5,0
+485,ANTIGRAVITY,Casual Dining,medium,Flatiron District,08:00,19:00,1,0
+486,Shambhu's Coffee Bar,Indian,expensive,Nolita,02:00,14:00,1,0
+487,Chilli 65,Thai,expensive,Upper West Side,07:00,14:00,4,0
+488,Vanilla The Bakery And Cafe,Thai,expensive,Flatbush,10:00,17:00,5,0
+489,Uttam's Bakery & Restaurant,Brasserie and Bistro,medium,Murray Hill,05:00,16:00,3,1
+490,Collage - Hyatt,Fast Food,cheap,Hamilton Heights,09:00,19:00,2,1
+491,SHANGZ,Casual Dining,cheap,Financial District,03:00,15:00,2,0
+492,A Hole Lotta Love Cafe,Fine Dining,medium,Inwood,03:00,20:00,2,1
+493,Unique Eats Restro Cafe,Continental,cheap,Marble Hill,03:00,17:00,3,0
+494,Alba - JW Marriott Bengaluru,Indian,medium,Morningside Heights,02:00,12:00,4,0
+495,Udupi Grand,Indian,expensive,Flatiron District,09:00,13:00,1,0
+496,Udupi Shree Darshini Restaurant,Tabletop cooking,medium,Flatbush,11:00,13:00,1,1
+497,Avin Karthik,Thai,medium,Williamsburg,04:00,14:00,3,0
+498,From The North,Tabletop cooking,cheap,Harlem,08:00,13:00,4,1
+499,Cafe De Macaron,Mongolian barbecue,cheap,Morningside Heights,08:00,22:00,5,1
+500,Backpackers Cafe,Casual Dining,expensive,Boerum Hill,08:00,18:00,1,0
+501,Mill & Co. - Renaissance Hotel,Fine Dining,medium,Chelsea,00:00,13:00,5,0
+502,Tiffin Room - Miraya Hotel & Residences,Fast Casual,expensive,Lower Manhattan,10:00,00:00,4,0
+503,City Buzz Reloaded,Indian,medium,Inwood,09:00,15:00,1,0
+504,Starbucks Coffee,Turkish,expensive,Nolita,09:00,13:00,1,0
+505,Polo Club - The Oberoi,Buffet,expensive,Little Italy,05:00,23:00,5,0
+506,Alba - JW Marriott Bengaluru,Casual Dining,expensive,Nolita,06:00,12:00,4,0
+507,Hash Guys,Tabletop cooking,medium,Tribeca,05:00,13:00,5,0
+508,Petite Sweet,Greasy Spoon,medium,Chinatown,11:00,23:00,4,1
+509,Street Storyss,Cafe,medium,Morningside Heights,07:00,20:00,2,0
+510,Bharat Bistro,Continental,cheap,East Village,06:00,18:00,4,1
+511,GYLT,Chinese,expensive,Greenwich Village,06:00,23:00,2,1
+512,Ram Chat Bhandar,Indian,medium,Washington Height,11:00,23:00,4,1
+513,Dakshinayan,Indian,expensive,Red Hook,01:00,22:00,4,0
+514,Khalsa Dhaba,Brasserie and Bistro,medium,Midtown East,05:00,00:00,1,0
+515,From The North,Tabletop cooking,expensive,Williamsburg,03:00,20:00,1,0
+516,Chai Shop - Hyatt Regency,Italian,medium,Little Italy,02:00,17:00,2,1
+517,Coffee Culture,Destination Restaurant,expensive,Chelsea,02:00,15:00,4,1
+518,Bake Ur Wish,Lebanese,expensive,Prospect Heights,05:00,15:00,3,1
+519,Podi Idly,Pakistani,expensive,Midtown East,11:00,22:00,2,1
+520,Pizza Sailorz,Premium Casual,cheap,Long Island City,11:00,21:00,2,0
+521,Cafe Arabica,Thai,medium,Gramercy Park,04:00,23:00,1,0
+522,Cottage,Cafe,medium,Lower East Side,03:00,21:00,5,0
+523,Boston Bites,Coffee,cheap,Flatiron District,05:00,00:00,2,1
+524,Sante Spa Cuisine,Tabletop cooking,expensive,Financial District,09:00,21:00,2,1
+525,Bloomsbury's Global Kitchen & Bakehouse,Chinese,medium,East Harlem,08:00,13:00,3,0
+526,Hot Feast,Premium Casual,medium,Chinatown,09:00,16:00,3,1
+527,Rehamati Bakery,Brasserie and Bistro,expensive,Union Square,09:00,23:00,3,1
+528,Yauatcha,Destination Restaurant,expensive,Greenpoint,07:00,13:00,5,0
+529,Tibetan Kitchen,Coffee,medium,Lower East Side,08:00,21:00,5,1
+530,Garam Dharam,Fine Dining,cheap,Hell's Kitchen,11:00,18:00,4,1
+531,Bake Me Away,Cafe,medium,Astoria,10:00,14:00,2,0
+532,The Globe Grub,Chinese,expensive,Williamsburg,02:00,16:00,5,0
+533,Curries,Casual Dining,expensive,Harlem,05:00,18:00,3,0
+534,Chianti,Mongolian barbecue,expensive,Greenwich Village,05:00,14:00,4,0
+535,Moti Bakery,Buffet,cheap,Red Hook,02:00,12:00,3,1
+536,Naman Pizzeria & Barbecue,Fast Food,medium,Park Slope,10:00,20:00,3,1
+537,Aattutheeram Kerala Restaurant,Ethnic,cheap,Harlem,04:00,22:00,3,1
+538,Half Baked,Pakistani,expensive,Prospect Heights,09:00,14:00,5,1
+539,‘Rotlo’ The Dining Hall,Ethnic,cheap,Flushing,09:00,15:00,4,1
+540,The Lantern Restaurant & Bar - The Ritz-Carlton,Fast Food,cheap,Little Italy,07:00,16:00,4,1
+541,Hashtag,Buffet,medium,Boerum Hill,10:00,23:00,2,1
+542,Starbucks Coffee,Continental,medium,Hamilton Heights,06:00,19:00,3,0
+543,Chef Baker's,Buffet,expensive,Little Italy,04:00,21:00,2,0
+544,Cubbon Pavilion - ITC Gardenia,Indian,cheap,East Harlem,04:00,20:00,1,0
+545,New York Slice,Family Style,medium,SoHo,08:00,23:00,5,0
+546,Kovallam,Family Style,cheap,Upper West Side,08:00,16:00,2,0
+547,Boathouse,Chinese,expensive,Greenpoint,01:00,15:00,2,0
+548,Gulati Bakers,Buffet,expensive,Battery Park City,02:00,19:00,3,0
+549,Biryani By Kilo,Destination Restaurant,cheap,Lower Manhattan,02:00,22:00,1,1
+550,UDP Urban Deccan Pub,Buffet,expensive,Tribeca,11:00,19:00,3,0
+551,Biryani By Kilo,Brasserie and Bistro,medium,Fort Greene,08:00,18:00,2,1
+552,Maruthi Davangere Benne Dosa,Chinese,cheap,Nolita,02:00,12:00,4,1
+553,Cafe Espro,Lebanese,cheap,Williamsburg,05:00,13:00,1,0
+554,Chef Aarti Tejwani,Ethnic,medium,Murray Hill,06:00,16:00,3,0
+555,Mill & Co. - Renaissance Hotel,Cafe,cheap,Chelsea,01:00,22:00,3,0
+556,Hot Feast,Fast Food,medium,Williamsburg,06:00,18:00,1,0
+557,Noorani By Nihari,Pakistani,medium,Dumbo,04:00,16:00,4,0
+558,Icekraft,Pakistani,medium,Greenwich Village,10:00,14:00,3,0
+559,Gwalia Sweets,Brasserie and Bistro,medium,Flatiron District,09:00,23:00,4,0
+560,Chullah Bhatti Grand,Lebanese,expensive,Inwood,08:00,17:00,4,1
+561,Biryani By Kilo,Ethnic,cheap,Lower East Side,09:00,21:00,3,0
+562,New Freeze Land,Tabletop cooking,cheap,Chelsea,08:00,23:00,3,0
+563,The Big Barbeque,Lebanese,cheap,Chinatown,03:00,15:00,1,1
+564,The Chocolate Heaven,Italian,expensive,Tribeca,05:00,19:00,5,1
+565,Devarsh,Casual Dining,expensive,Inwood,10:00,11:00,3,0
+566,Xochi Bar And Kitchen,Buffet,expensive,Battery Park City,02:00,00:00,1,0
+567,Eleven 11 Restro Cafe,Destination Restaurant,expensive,Brooklyn Heights,04:00,00:00,2,1
+568,Go Native,Pakistani,medium,Fort Greene,10:00,21:00,4,0
+569,Cake Zone,Tabletop cooking,medium,Battery Park City,00:00,20:00,5,0
+570,Subway,Chinese,expensive,Chelsea,01:00,13:00,1,0
+571,Smoor,Indian,cheap,Williamsburg,07:00,00:00,2,0
+572,Cake Story,Fast Casual,cheap,Inwood,10:00,16:00,1,0
+573,Curry N Spices,Pakistani,medium,Gramercy Park,07:00,14:00,5,0
+574,Burgrill,Tabletop cooking,medium,Morningside Heights,03:00,15:00,5,1
+575,Vanashree,Greasy Spoon,medium,East Village,10:00,17:00,5,1
+576,The Bangalore Cafe,Italian,expensive,Morningside Heights,10:00,16:00,1,1
+577,Roll Subs,Tabletop cooking,medium,Flatbush,09:00,18:00,2,1
+578,Roots,Fast Food,medium,East Harlem,05:00,14:00,4,1
+579,Benares,Thai,cheap,Hamilton Heights,07:00,22:00,2,0
+580,TGB Cafe n Bakery,Premium Casual,cheap,Flatiron District,05:00,15:00,3,1
+581,Mooch Marod - Non Veg,Casual Dining,expensive,Lower East Side,05:00,17:00,5,1
+582,Blue Bottle Cafe,Casual Dining,expensive,Flatiron District,10:00,16:00,3,0
+583,ibaco,Turkish,expensive,Prospect Heights,11:00,23:00,4,0
+584,Bansal Amritsar Food Street,Greasy Spoon,medium,Chinatown,00:00,22:00,1,1
+585,Karachi Bakery,Mongolian barbecue,medium,Chelsea,10:00,21:00,4,0
+586,Roll Subs,Indian,expensive,Marble Hill,01:00,14:00,5,0
+587,Monica's Puddings & Pies,Chinese,cheap,Midtown East,10:00,19:00,3,1
+588,SandwichworkZ - The Fusion Street Cafe,Chinese,cheap,SoHo,09:00,14:00,3,0
+589,Foodie's Call,Casual Dining,cheap,Washington Height,10:00,14:00,1,0
+590,Cake Cafe,Fine Dining,cheap,Union Square,06:00,11:00,5,0
+591,Anupam Sweets,Fine Dining,cheap,Battery Park City,08:00,17:00,3,0
+592,Molecule Air Bar,Pakistani,expensive,Fort Greene,09:00,12:00,1,0
+593,Loft,Greasy Spoon,expensive,Greenpoint,01:00,14:00,3,0
+594,Himalayan Food Plaza,Lebanese,medium,Upper East Side,10:00,19:00,2,0
+595,SuperYum,Cafe,cheap,Nolita,06:00,22:00,3,1
+596,Burgerlicious,Casual Dining,cheap,Midtown East,10:00,21:00,4,0
+597,Dakshin - ITC Windsor,Italian,cheap,East Village,02:00,14:00,3,0
+598,UFO Fries & Corn,Italian,cheap,Union Square,05:00,20:00,3,1
+599,Unlocked,Fast Casual,expensive,Lower East Side,09:00,22:00,1,1
+600,The Sugar Fairy,Buffet,cheap,Flatiron District,08:00,13:00,3,1
+601,Mirch Masala,Destination Restaurant,cheap,Chinatown,11:00,22:00,2,0
+602,Cream N Crunch,Casual Dining,cheap,Tribeca,00:00,11:00,2,1
+603,Golden Brown,Coffee,expensive,Park Slope,00:00,15:00,5,1
+604,Lazeez Rasoi,Fine Dining,expensive,Gramercy Park,05:00,15:00,3,1
+605,Faraabi Cafe,Premium Casual,expensive,Canarsie,02:00,23:00,4,1
+606,World Food Centre,Italian,expensive,Flatiron District,04:00,11:00,1,0
+607,Simply Meaty,Coffee,medium,Upper East Side,10:00,17:00,5,0
+608,Tipsy Bull - The Bar Exchange,Thai,expensive,Harlem,01:00,13:00,1,0
+609,Maiyas,Mongolian barbecue,medium,Battery Park City,09:00,21:00,1,1
+610,Baba Dairy,Thai,cheap,Williamsburg,04:00,21:00,1,1
+611,Shree Manmohan Kharek Centre,Indian,cheap,Dumbo,02:00,15:00,5,0
+612,United Coffee House Rewind,Turkish,cheap,Midtown East,02:00,23:00,5,0
+613,Tea Culture,Family Style,medium,Harlem,01:00,13:00,1,0
+614,National Bakers,Turkish,cheap,Williamsburg,01:00,17:00,5,0
+615,Lil' Heaven Cafe,Fast Casual,medium,Boerum Hill,08:00,20:00,3,1
+616,Kovallam,Tabletop cooking,medium,Financial District,08:00,12:00,3,1
+617,TBC Sky Lounge,Family Style,cheap,Red Hook,09:00,17:00,1,1
+618,Incanto - The Zuri,Continental,cheap,Bushwick,09:00,20:00,3,1
+619,Mongini's,Casual Dining,cheap,Boerum Hill,00:00,19:00,5,0
+620,The Humble Pie,Continental,medium,Tribeca,06:00,16:00,3,0
+621,The Reservoire,Turkish,cheap,Bushwick,06:00,21:00,5,0
+622,Saanjh Baker's Cakes & Cafe,Ethnic,cheap,Chinatown,03:00,15:00,4,1
+623,The Pallet,Family Style,medium,Financial District,04:00,23:00,5,1
+624,Tomato's,Fast Casual,medium,Fort Greene,01:00,17:00,4,1
+625,Dravida - The Fern,Italian,medium,Fort Greene,04:00,12:00,2,1
+626,Lezzetli,Lebanese,medium,Upper West Side,00:00,22:00,3,0
+627,Pastry 'N' Tasty,Ethnic,expensive,Hell's Kitchen,07:00,12:00,2,1
+628,Super Donuts- American Eatery & Bakery,Tabletop cooking,medium,Astoria,06:00,14:00,3,0
+629,Popular Burger,Casual Dining,expensive,Lower East Side,10:00,22:00,3,0
+630,Road Side Bells,Lebanese,medium,Inwood,07:00,14:00,1,0
+631,Playground,Buffet,cheap,Long Island City,03:00,12:00,5,0
+632,Brew Bros,Lebanese,medium,Chelsea,03:00,11:00,1,1
+633,Sidewalk - The Garden Bar,Italian,cheap,SoHo,10:00,14:00,4,1
+634,Lil' Heaven Cafe,Greasy Spoon,expensive,Dumbo,06:00,13:00,1,1
+635,Choice Snack Bar,Premium Casual,expensive,Hamilton Heights,10:00,19:00,1,0
+636,Biergarten,Tabletop cooking,expensive,Astoria,02:00,12:00,4,1
+637,Karachi Bakery,Pakistani,medium,Flushing,06:00,16:00,2,1
+638,Boston Bites,Thai,medium,Lower East Side,09:00,22:00,2,1
+639,Vanilla The Cake Shop,Casual Dining,cheap,Prospect Heights,01:00,17:00,5,1
+640,Tea Villa Cafe,Casual Dining,medium,Astoria,09:00,21:00,5,0
+641,New Polka Pastry Shop,Premium Casual,expensive,Bushwick,01:00,20:00,2,0
+642,Backpackers Cafe,Cafe,medium,Upper West Side,05:00,19:00,2,0
+643,La Patisserie,Fast Casual,expensive,Harlem,11:00,12:00,5,1
+644,The Filter Coffee,Casual Dining,expensive,Long Island City,03:00,00:00,2,0
+645,Dryp,Ethnic,medium,Astoria,01:00,15:00,5,1
+646,The Black Pearl,Turkish,expensive,Financial District,05:00,15:00,5,1
+647,Tea Culture,Ethnic,medium,Harlem,09:00,20:00,4,0
+648,Citrus - The Leela Palace,Italian,expensive,Nolita,09:00,13:00,1,1
+649,Food@U,Casual Dining,cheap,Dumbo,08:00,00:00,1,1
+650,Bake Me Away,Brasserie and Bistro,medium,Canarsie,11:00,16:00,3,0
+651,Third Wave Coffee Roasters,Continental,expensive,Tribeca,11:00,11:00,3,0
+652,Rangeen,Family Style,medium,Fort Greene,03:00,17:00,2,1
+653,Wakhra Swaad,Destination Restaurant,medium,Astoria,06:00,17:00,2,0
+654,Polo Club - The Oberoi,Mongolian barbecue,cheap,Red Hook,00:00,17:00,3,0
+655,VarieTea,Casual Dining,cheap,Morningside Heights,02:00,17:00,2,1
+656,@Mango,Fast Food,cheap,Morningside Heights,00:00,18:00,5,1
+657,Haramrit Vaishno Dhaba,Destination Restaurant,expensive,Flushing,02:00,15:00,4,0
+658,Michigan Pizza Company,Turkish,expensive,Marble Hill,09:00,15:00,4,1
+659,Soul Treat,Ethnic,medium,Little Italy,06:00,20:00,5,0
+660,Chai Galli,Casual Dining,medium,Flushing,02:00,00:00,3,1
+661,Cafe De Italiano,Fine Dining,expensive,SoHo,06:00,16:00,3,1
+662,Vibrant Cafe & Food Court,Ethnic,expensive,Greenpoint,02:00,21:00,2,1
+663,Polka The Cake Shop,Lebanese,expensive,Inwood,04:00,22:00,3,1
+664,The Rolling Pin,Thai,medium,Chinatown,05:00,18:00,3,1
+665,Atty's Bakery,Ethnic,cheap,Red Hook,10:00,18:00,4,0
+666,Joules,Mongolian barbecue,expensive,SoHo,04:00,14:00,1,1
+667,Onesta,Mongolian barbecue,cheap,East Village,09:00,20:00,4,0
+668,M Cafe - Bengaluru Marriott Hotel Whitefield,Indian,cheap,Flatiron District,03:00,21:00,4,1
+669,Mooch Marod - Non Veg,Indian,cheap,Brooklyn Heights,00:00,22:00,1,1
+670,Pastry 'N' Tasty,Fine Dining,cheap,Union Square,07:00,21:00,5,0
+671,The Filter Coffee,Family Style,cheap,Hell's Kitchen,07:00,23:00,5,0
+672,Poetry,Turkish,medium,Bushwick,03:00,14:00,1,0
+673,Ram Dairy,Coffee,medium,Harlem,08:00,18:00,4,0
+674,Dakshinayan,Destination Restaurant,expensive,Flushing,09:00,12:00,5,0
+675,La Patisserie,Fast Food,medium,Flatiron District,02:00,14:00,4,0
+676,Chandigarh Baking Company - JW Marriott,Chinese,cheap,Marble Hill,02:00,20:00,1,0
+677,Juno's Pizza,Tabletop cooking,expensive,Park Slope,06:00,16:00,5,0
+678,IDC Kitchen,Continental,expensive,Chelsea,05:00,20:00,2,0
+679,Downtown Cafe & Bakery,Cafe,medium,Murray Hill,05:00,20:00,2,0
+680,Cakes 'N' Stuff,Greasy Spoon,cheap,Gramercy Park,08:00,20:00,4,1
+681,TGIH - Thank God It's Healthy,Italian,cheap,Greenwich Village,07:00,20:00,3,1
+682,Upper Crust,Mongolian barbecue,cheap,Upper East Side,07:00,16:00,5,0
+683,Kaffee - Mast Hai,Mongolian barbecue,medium,Flatbush,06:00,23:00,3,0
+684,Makeba - The Lounge Cafe,Pakistani,medium,Upper West Side,01:00,15:00,3,0
+685,Juicy,Coffee,medium,Greenpoint,01:00,21:00,2,0
+686,Jamavar - The Leela Palace,Fine Dining,expensive,Chinatown,03:00,15:00,2,1
+687,MIY Bistro - Make It Yourself,Turkish,medium,Flatiron District,10:00,00:00,1,1
+688,Chantilly,Premium Casual,expensive,Prospect Heights,02:00,18:00,2,1
+689,Blue Tokai Coffee Roasters,Brasserie and Bistro,expensive,Lower Manhattan,10:00,00:00,1,0
+690,Veena Stores,Fine Dining,expensive,Canarsie,05:00,21:00,2,1
+691,Cafe Upper Crust,Fast Casual,medium,Union Square,06:00,22:00,4,0
+692,Cafe Tilla,Fast Food,medium,Upper East Side,05:00,13:00,5,0
+693,House of Cakes,Tabletop cooking,expensive,East Harlem,06:00,14:00,1,0
+694,Tomato's Cake Shop,Indian,expensive,Inwood,08:00,18:00,5,1
+695,SuperYum,Lebanese,cheap,Greenwich Village,10:00,21:00,2,0
+696,Jay Shree Sandwich Centre,Casual Dining,cheap,Nolita,11:00,21:00,2,1
+697,Mahaveer Food Point,Buffet,expensive,Boerum Hill,01:00,22:00,5,0
+698,Petu Pankaj,Fine Dining,expensive,Boerum Hill,03:00,22:00,5,0
+699,Bayleaf - Courtyard By Marriott,Chinese,medium,Long Island City,09:00,19:00,2,1
+700,Sri Raghavendra Stores,Ethnic,expensive,Morningside Heights,10:00,22:00,2,1
+701,Castle Grill,Cafe,expensive,Inwood,11:00,15:00,5,0
+702,Cake Way 70,Brasserie and Bistro,expensive,East Village,09:00,11:00,2,1
+703,The Red Bistro,Destination Restaurant,expensive,East Village,11:00,17:00,2,0
+704,Subway,Turkish,expensive,Flushing,04:00,15:00,5,0
+705,Cake n Bake,Italian,medium,Midtown East,10:00,12:00,2,1
+706,Cake O Fresh,Cafe,expensive,Inwood,10:00,19:00,1,1
+707,Brik Oven,Tabletop cooking,medium,Greenpoint,09:00,23:00,5,0
+708,The Reef,Pakistani,expensive,Washington Height,10:00,15:00,2,0
+709,Echoes Ahmedabad,Mongolian barbecue,expensive,Harlem,09:00,00:00,1,0
+710,Juicy,Lebanese,medium,Long Island City,06:00,21:00,2,0
+711,Bistro 1427,Brasserie and Bistro,medium,Red Hook,08:00,16:00,5,1
+712,Gods Own Cafe,Italian,medium,Williamsburg,02:00,14:00,1,0
+713,Sale and Pepe,Brasserie and Bistro,expensive,Canarsie,08:00,11:00,2,0
+714,Dolci Desserts,Continental,medium,Financial District,04:00,23:00,1,0
+715,Royal Punjab Paratha,Destination Restaurant,cheap,Flatiron District,07:00,13:00,5,0
+716,Lollo Rosso,Greasy Spoon,cheap,Harlem,02:00,15:00,5,0
+717,Le Cirque Signature - The Leela Palace,Continental,medium,Flushing,06:00,11:00,1,0
+718,Va Sano,Fast Food,medium,Union Square,01:00,23:00,2,0
+719,The Garden Cafe - The Fern,Brasserie and Bistro,expensive,Brooklyn Heights,05:00,15:00,2,1
+720,Road Side Bells,Pakistani,expensive,East Village,07:00,14:00,2,0
+721,Hall Gate,Fast Casual,expensive,Flatiron District,02:00,22:00,4,0
+722,The Cake Heaven,Ethnic,medium,Washington Height,02:00,23:00,5,0
+723,Das Khaman,Thai,expensive,Morningside Heights,00:00,11:00,3,0
+724,Charcoal Eats,Lebanese,expensive,Murray Hill,04:00,13:00,5,1
+725,Bombay Adda,Thai,cheap,SoHo,02:00,16:00,5,1
+726,Lamhe,Brasserie and Bistro,medium,Nolita,08:00,13:00,3,1
+727,BN Bakers,Greasy Spoon,medium,Murray Hill,07:00,12:00,3,1
+728,Burger Yard,Continental,expensive,Greenwich Village,07:00,17:00,1,1
+729,Sendhoor Coffee,Fast Casual,expensive,Greenpoint,05:00,13:00,4,0
+730,Nando's,Ethnic,cheap,Chelsea,07:00,13:00,3,0
+731,Burger Seigneur,Brasserie and Bistro,expensive,Washington Height,00:00,23:00,4,0
+732,Bake Me Away,Cafe,expensive,Battery Park City,07:00,00:00,1,0
+733,Kava - Fairfield by Marriott,Italian,cheap,SoHo,07:00,16:00,5,0
+734,Wasabi,Casual Dining,medium,Tribeca,03:00,17:00,5,1
+735,Indore Chat House,Tabletop cooking,expensive,Astoria,10:00,13:00,3,0
+736,Bayleaf - Courtyard By Marriott,Cafe,expensive,Chelsea,06:00,15:00,4,1
+737,Temptt Restro And Cafe,Destination Restaurant,expensive,Red Hook,00:00,12:00,3,1
+738,Indian Coffee House,Lebanese,medium,Greenpoint,07:00,21:00,3,1
+739,Stories - The Brew Chapter,Family Style,expensive,Dumbo,09:00,11:00,5,1
+740,Sweet Chariot,Tabletop cooking,medium,Washington Height,09:00,13:00,3,0
+741,Desi Stuff,Premium Casual,expensive,Gramercy Park,02:00,13:00,5,0
+742,Fozzie's Pizzaiolo. Cafe. Deli,Premium Casual,cheap,Hamilton Heights,06:00,14:00,1,1
+743,Devarsh,Indian,medium,Prospect Heights,07:00,17:00,4,1
+744,Busker's Corner,Indian,cheap,Canarsie,02:00,22:00,1,1
+745,Grill Daddy,Turkish,cheap,Boerum Hill,11:00,00:00,5,0
+746,Terracotta,Cafe,expensive,Greenwich Village,02:00,22:00,1,0
+747,Brown Burger Co,Mongolian barbecue,expensive,Nolita,09:00,14:00,2,0
+748,Mexicano By The Bay,Casual Dining,medium,Greenpoint,03:00,23:00,4,1
+749,Uttam Sweets & Bakers,Indian,cheap,Washington Height,02:00,17:00,1,1
+750,Ranganna Military Hotel,Buffet,medium,Fort Greene,00:00,14:00,3,1
+751,Santé Spa Cuisine,Thai,medium,Long Island City,04:00,18:00,3,1
+752,Feast - Sheraton Grand Bangalore Hotel at Brigade Gateway,Cafe,cheap,East Harlem,08:00,22:00,3,0
+753,Attic,Coffee,expensive,Murray Hill,05:00,13:00,4,0
+754,Sky Mansion,Continental,cheap,Chinatown,00:00,22:00,4,1
+755,Wagh Bakri Tea Lounge,Italian,cheap,Fort Greene,06:00,17:00,5,0
+756,Starbucks Coffee,Family Style,cheap,Murray Hill,02:00,22:00,2,1
+757,Bakesters,Chinese,cheap,Chelsea,06:00,22:00,4,1
+758,Curries,Italian,medium,Financial District,09:00,22:00,3,1
+759,National Bakers,Family Style,medium,Inwood,04:00,21:00,1,1
+760,Kosho's Sauces and Sausages,Chinese,expensive,Battery Park City,01:00,22:00,5,0
+761,Forking Awesome,Family Style,expensive,Dumbo,09:00,21:00,2,1
+762,Chulha Chauki Da Dhaba,Indian,medium,Park Slope,05:00,18:00,5,0
+763,The Bakers Table,Casual Dining,cheap,Red Hook,09:00,18:00,4,1
+764,Malleshwaram Dosa Corner,Coffee,cheap,Hell's Kitchen,05:00,13:00,5,0
+765,Cakes N Bakes,Cafe,medium,Flushing,04:00,12:00,5,1
+766,Dhuaan,Chinese,cheap,Chelsea,04:00,21:00,1,1
+767,The Cafe Baraco,Buffet,medium,Dumbo,05:00,13:00,4,1
+768,Shambhu's Coffee Bar,Indian,cheap,Greenpoint,11:00,22:00,3,1
+769,Mexicano By The Bay,Italian,medium,Williamsburg,03:00,17:00,1,1
+770,Vince Cafe,Cafe,cheap,Gramercy Park,03:00,16:00,3,1
+771,Mom Baker's,Fast Casual,expensive,East Harlem,01:00,19:00,5,0
+772,New York Slice,Coffee,cheap,Financial District,03:00,15:00,3,1
+773,Chef Aarti Tejwani,Premium Casual,expensive,Murray Hill,02:00,21:00,4,1
+774,Occasions,Cafe,cheap,Hell's Kitchen,08:00,15:00,5,0
+775,Chili's American Grill & Bar,Buffet,medium,Astoria,10:00,14:00,5,1
+776,The Live Ice Cream Studio,Turkish,expensive,Harlem,05:00,22:00,1,1
+777,La Patron Cafe,Tabletop cooking,medium,East Harlem,09:00,17:00,2,1
+778,HOP - Double Tree By Hilton,Buffet,medium,SoHo,10:00,15:00,4,1
+779,Upsouth,Indian,expensive,Prospect Heights,10:00,23:00,1,1
+780,Mocha,Fine Dining,expensive,Midtown East,09:00,21:00,4,1
+781,BN Bakers,Lebanese,medium,SoHo,00:00,20:00,1,1
+782,Chandra Villas,Turkish,medium,Williamsburg,03:00,00:00,2,1
+783,Chai Shop - Hyatt Regency,Tabletop cooking,cheap,SoHo,00:00,13:00,3,1
+784,The Square - Novotel,Chinese,expensive,Upper East Side,11:00,13:00,3,1
+785,Roastery Cultur - The Coffee Company,Fast Food,expensive,Dumbo,07:00,23:00,2,1
+786,Karim's Delhi 6,Premium Casual,expensive,Boerum Hill,01:00,21:00,4,0
+787,Yanki Sizzlers,Fast Casual,cheap,Hamilton Heights,10:00,15:00,4,0
+788,Dominic Pizza,Buffet,expensive,Red Hook,07:00,22:00,4,0
+789,Chianti,Destination Restaurant,cheap,Boerum Hill,00:00,16:00,3,0
+790,1131 Bar + Kitchen,Buffet,cheap,Murray Hill,03:00,13:00,5,1
+791,Chaatimes,Casual Dining,cheap,Williamsburg,10:00,16:00,5,1
+792,Bakers Bite Cafe,Continental,medium,Flatiron District,09:00,23:00,2,1
+793,The Hebbal Cafe - Courtyard By Marriott,Brasserie and Bistro,medium,Gramercy Park,04:00,18:00,1,1
+794,The Green Emerald - Forest Hill Golf & Country Club,Thai,medium,Fort Greene,02:00,20:00,1,0
+795,Just Food Inn,Thai,medium,Park Slope,06:00,21:00,4,0
+796,MIY Bistro - Make It Yourself,Tabletop cooking,expensive,Greenpoint,01:00,16:00,2,0
+797,Castle Grill,Turkish,expensive,Murray Hill,09:00,23:00,1,1
+798,Citrus Cafe - Lemon Tree Premier,Mongolian barbecue,expensive,Canarsie,08:00,18:00,3,0
+799,Mainland China,Continental,cheap,Murray Hill,10:00,23:00,2,0
+800,The Bakers Table,Family Style,expensive,Greenwich Village,05:00,21:00,2,1
+801,Fayrouz,Italian,expensive,Flatbush,10:00,18:00,3,0
+802,The Bakers,Cafe,expensive,Flatiron District,09:00,22:00,2,1
+803,Dum Pukht Jolly Nabobs - ITC Windsor,Fast Food,cheap,Prospect Heights,07:00,16:00,1,1
+804,Sphere Lounge,Premium Casual,expensive,Upper West Side,05:00,22:00,5,0
+805,The Bakers Table,Continental,cheap,Battery Park City,06:00,12:00,5,1
+806,Smoor,Pakistani,medium,Morningside Heights,07:00,17:00,3,0
+807,Glen's Bakehouse,Family Style,cheap,Midtown East,05:00,21:00,2,0
+808,Matteo Coffea,Fine Dining,expensive,Flatiron District,06:00,21:00,5,0
+809,Magnolia Bakery,Mongolian barbecue,medium,Gramercy Park,09:00,20:00,4,0
+810,Brew Bros,Brasserie and Bistro,cheap,Lower Manhattan,11:00,15:00,3,1
+811,Food@U,Fast Food,expensive,Long Island City,07:00,13:00,4,0
+812,The Green Emerald - Forest Hill Golf & Country Club,Greasy Spoon,cheap,Upper West Side,06:00,12:00,4,1
+813,Khalsa Dhaba,Turkish,cheap,Washington Height,09:00,20:00,5,0
+814,New Freeze Land,Buffet,medium,Upper East Side,00:00,18:00,2,0
+815,The Black Pearl,Chinese,expensive,Prospect Heights,08:00,16:00,5,0
+816,South Leaf- The Food Chain,Cafe,expensive,Upper East Side,02:00,22:00,1,0
+817,Ottimo - ITC Gardenia,Thai,medium,Nolita,04:00,13:00,5,0
+818,Mongini's,Brasserie and Bistro,expensive,Red Hook,00:00,18:00,5,1
+819,MTR 1924,Fast Casual,expensive,Dumbo,02:00,18:00,1,0
+820,Shree Ambika Dalvada Centre,Premium Casual,cheap,Flatiron District,02:00,22:00,2,1
+821,Chef's Pizza,Family Style,medium,East Harlem,00:00,17:00,4,0
+822,Cottage,Indian,medium,Prospect Heights,09:00,19:00,3,0
+823,Onesta,Ethnic,expensive,Hamilton Heights,04:00,19:00,3,1
+824,Sundarams,Thai,cheap,East Harlem,09:00,17:00,2,1
+825,Shuddh Desi Khana,Lebanese,medium,Morningside Heights,03:00,17:00,2,1
+826,Mirch Masala,Brasserie and Bistro,expensive,Battery Park City,00:00,20:00,3,1
+827,New Vaishno Dhaba,Fine Dining,expensive,East Harlem,11:00,16:00,3,1
+828,New Polka Pastry Shop,Destination Restaurant,cheap,Nolita,01:00,21:00,4,1
+829,V B Bakery,Family Style,cheap,Nolita,09:00,13:00,5,0
+830,Marzipan Cafe & Bakery,Pakistani,medium,Upper West Side,01:00,21:00,2,1
+831,New Freeze Land,Fine Dining,cheap,Williamsburg,07:00,14:00,4,0
+832,Mill & Co. - Renaissance Hotel,Lebanese,cheap,Midtown East,08:00,22:00,2,1
+833,Fortune Cookies - Fortune Landmark,Continental,medium,Union Square,01:00,21:00,2,0
+834,Dominic Pizza,Mongolian barbecue,cheap,Battery Park City,03:00,13:00,2,1
+835,Mill & Co. - Renaissance Hotel,Destination Restaurant,medium,Lower Manhattan,01:00,20:00,5,1
+836,Foxtrot - House of Subculture,Turkish,expensive,Marble Hill,06:00,20:00,2,0
+837,The Sugar Fairy,Fast Casual,cheap,Morningside Heights,03:00,15:00,5,0
+838,The Bundle Co.,Italian,medium,Battery Park City,03:00,17:00,4,0
+839,Rim Naam - The Oberoi,Indian,expensive,East Village,11:00,21:00,1,0
+840,Stoner,Premium Casual,medium,Brooklyn Heights,09:00,17:00,1,1
+841,35 Baker's Street,Turkish,cheap,Nolita,07:00,12:00,5,1
+842,Royal Restaurant & Banquet,Continental,cheap,Williamsburg,09:00,20:00,3,0
+843,Bake Me Away,Fast Casual,cheap,Midtown East,07:00,00:00,3,0
+844,Baker's Oven,Continental,expensive,Brooklyn Heights,01:00,19:00,2,1
+845,Chandra Villas,Indian,cheap,Greenpoint,10:00,19:00,2,0
+846,Ristretto - Behind the Rods,Family Style,expensive,Flushing,06:00,16:00,3,1
+847,Soul Treat,Brasserie and Bistro,cheap,Upper West Side,07:00,11:00,1,1
+848,Mom Baker's,Destination Restaurant,cheap,Long Island City,03:00,15:00,2,1
+849,Gamysticafe,Casual Dining,medium,Brooklyn Heights,01:00,16:00,5,0
+850,Wagh Bakri Tea Lounge,Coffee,medium,Washington Height,08:00,19:00,2,1
+851,Habibi Falafel,Fast Casual,cheap,Fort Greene,05:00,21:00,3,0
+852,Azure - Taj Yeshwantpur,Ethnic,cheap,Inwood,05:00,00:00,5,1
+853,Hall Gate,Coffee,medium,Brooklyn Heights,10:00,23:00,5,1
+854,Bhathal Rasoi,Coffee,medium,Murray Hill,03:00,14:00,5,1
+855,The Chocolate Room,Fine Dining,cheap,Union Square,01:00,13:00,4,1
+856,CNS Pastries,Fast Casual,cheap,Gramercy Park,02:00,13:00,1,0
+857,Lotus Pavilion - ITC Gardenia,Fine Dining,expensive,Flushing,04:00,15:00,3,0
+858,Chilli 65,Lebanese,expensive,Marble Hill,01:00,13:00,4,0
+859,Dangee Dums,Premium Casual,cheap,Upper West Side,08:00,19:00,5,1
+860,Fayrouz,Buffet,medium,Prospect Heights,05:00,21:00,5,0
+861,Vinnie's,Mongolian barbecue,cheap,Midtown East,08:00,22:00,1,1
+862,Little Place,Fast Food,expensive,Greenpoint,03:00,21:00,2,0
+863,Cake Cafe,Tabletop cooking,expensive,Park Slope,07:00,18:00,5,1
+864,Catch 22,Greasy Spoon,medium,Hamilton Heights,09:00,16:00,5,1
+865,Mongini's,Lebanese,expensive,Astoria,00:00,20:00,5,1
+866,Karma Cafe,Thai,medium,Flatiron District,04:00,15:00,5,0
+867,Deccan Paradise,Mongolian barbecue,expensive,Hell's Kitchen,03:00,23:00,5,0
+868,Mumbai Tiffin,Mongolian barbecue,medium,Hamilton Heights,04:00,18:00,1,1
+869,Lazeez Rasoi,Italian,expensive,Boerum Hill,05:00,20:00,4,0
+870,Om Sai Skanda Dosa Camp,Fine Dining,medium,Upper East Side,06:00,12:00,3,0
+871,Café 77 East - Taj Bangalore,Destination Restaurant,medium,Astoria,04:00,13:00,5,1
+872,Stuff's Food,Continental,medium,East Village,05:00,12:00,1,0
+873,The London Curry House - The Royale Senate Hotel,Coffee,medium,Greenpoint,03:00,16:00,1,1
+874,Nugget Nation,Coffee,medium,Financial District,02:00,19:00,3,1
+875,The Big Barbeque,Cafe,expensive,Little Italy,04:00,21:00,3,1
+876,Just Food Inn,Destination Restaurant,medium,Chelsea,10:00,18:00,1,0
+877,Casa Bella Vista Pizzeria,Mongolian barbecue,cheap,Lower East Side,05:00,20:00,5,0
+878,Chantilly,Continental,medium,Williamsburg,02:00,12:00,4,0
+879,Biergarten,Casual Dining,medium,Greenwich Village,06:00,17:00,1,0
+880,Cafe Upper Crust,Premium Casual,expensive,Morningside Heights,01:00,17:00,4,1
+881,Kabhi B,Continental,medium,Bushwick,07:00,16:00,2,1
+882,Sweet Sensations,Cafe,medium,Canarsie,00:00,17:00,5,0
+883,Sagar Ratna,Brasserie and Bistro,cheap,Long Island City,02:00,14:00,4,0
+884,Cravings,Tabletop cooking,cheap,Flatbush,10:00,12:00,5,1
+885,Onesta,Casual Dining,expensive,Morningside Heights,08:00,14:00,2,1
+886,The Hole In The Wall Cafe,Greasy Spoon,medium,East Harlem,07:00,15:00,5,0
+887,Fayrouz,Pakistani,medium,SoHo,00:00,20:00,3,0
+888,Masala Mandi,Mongolian barbecue,expensive,Brooklyn Heights,01:00,13:00,3,0
+889,Tea Brew,Greasy Spoon,cheap,Flatbush,06:00,16:00,3,1
+890,24/7 - The Lalit Ashok Bangalore,Ethnic,cheap,Prospect Heights,08:00,13:00,3,1
+891,The Willow Cafe,Lebanese,cheap,Bushwick,02:00,14:00,1,1
+892,Appetize The Bistro,Ethnic,expensive,Tribeca,10:00,21:00,1,0
+893,Aroma - Crowne Plaza,Tabletop cooking,cheap,Battery Park City,10:00,15:00,3,0
+894,Swagath Restaurant & Bar,Destination Restaurant,cheap,Marble Hill,06:00,17:00,5,1
+895,Kosho's Sauces and Sausages,Lebanese,expensive,Red Hook,02:00,13:00,5,1
+896,Transform Diet,Lebanese,expensive,SoHo,11:00,22:00,5,0
+897,24@43 - The Oterra,Fine Dining,cheap,Dumbo,07:00,14:00,2,0
+898,Hotel Dwarka,Ethnic,cheap,Flatiron District,04:00,18:00,1,0
+899,Nuage,Lebanese,medium,Flatiron District,09:00,15:00,3,1
+900,Echoes Koramangala,Mongolian barbecue,cheap,Hell's Kitchen,02:00,19:00,2,1
+901,Bistro Bois,Thai,medium,Fort Greene,10:00,20:00,1,1
+902,Thom's Bakery,Ethnic,cheap,Hamilton Heights,01:00,21:00,2,1
+903,Puffizza,Ethnic,cheap,Financial District,04:00,19:00,2,0
+904,Mudpipe Cafe,Greasy Spoon,expensive,SoHo,09:00,13:00,4,1
+905,Lamhe,Thai,medium,Nolita,04:00,00:00,5,1
+906,Mumbai Tiffin,Family Style,cheap,Astoria,00:00,12:00,1,0
+907,Hillstation Cafe,Cafe,cheap,Long Island City,02:00,13:00,5,1
+908,JB's Kitchen,Chinese,medium,Flushing,08:00,18:00,4,1
+909,Market Table,Chinese,expensive,SoHo,07:00,20:00,3,1
+910,Smoke House Deli,Fine Dining,cheap,Midtown East,04:00,16:00,3,0
+911,Urban Khichdi,Ethnic,medium,Flushing,09:00,16:00,3,0
+912,Fortune Cookies - Fortune Landmark,Fine Dining,medium,Red Hook,09:00,21:00,2,0
+913,Ottimo - ITC Gardenia,Mongolian barbecue,expensive,Hell's Kitchen,04:00,14:00,2,1
+914,Polka The Cake Shop,Ethnic,medium,Flatiron District,04:00,00:00,3,1
+915,Pooja Parlour,Turkish,cheap,Greenpoint,04:00,00:00,2,0
+916,Tijouri - Radisson Blu Atria,Casual Dining,medium,Murray Hill,09:00,13:00,3,0
+917,B. K. Confectionery,Casual Dining,expensive,Canarsie,01:00,16:00,4,0
+918,Fire Station,Premium Casual,expensive,Morningside Heights,05:00,20:00,2,0
+919,Asia Kitchen By Mainland China,Pakistani,expensive,Flushing,10:00,17:00,2,0
+920,Big Bite Fast Food,Greasy Spoon,cheap,Prospect Heights,10:00,21:00,1,1
+921,Marzipan Cafe & Bakery,Tabletop cooking,cheap,Hell's Kitchen,02:00,12:00,2,1
+922,Tamarind - Taj Bangalore,Buffet,expensive,Union Square,06:00,13:00,1,0
+923,Loft,Indian,cheap,Lower Manhattan,05:00,14:00,2,0
+924,Poetry,Premium Casual,expensive,SoHo,07:00,23:00,2,0
+925,Dominic Pizza,Turkish,expensive,Inwood,10:00,15:00,4,1
+926,Bansal Amritsar Food Street,Indian,cheap,SoHo,11:00,20:00,4,1
+927,O.G. Variar & Sons,Fine Dining,cheap,Astoria,10:00,15:00,1,1
+928,Vanilla The Bakery And Cafe,Tabletop cooking,medium,Greenpoint,09:00,14:00,2,1
+929,Chilli 65,Casual Dining,expensive,Lower East Side,02:00,18:00,5,1
+930,Backpackers Cafe,Greasy Spoon,cheap,Battery Park City,01:00,16:00,5,1
+931,Gamysticafe,Casual Dining,medium,Brooklyn Heights,10:00,16:00,5,1
+932,Gilly's Restobar,Premium Casual,cheap,Prospect Heights,02:00,21:00,3,1
+933,SuperYum,Mongolian barbecue,cheap,East Village,06:00,23:00,2,1
+934,China Bistro,Brasserie and Bistro,expensive,Canarsie,01:00,23:00,3,1
+935,Le Cirque Signature - The Leela Palace,Indian,cheap,Tribeca,11:00,20:00,1,0
+936,The Big Barbeque,Pakistani,cheap,Tribeca,06:00,18:00,4,0
+937,Dominic Pizza,Indian,medium,Bushwick,00:00,18:00,3,0
+938,Pradhan Dhaba,Greasy Spoon,medium,Red Hook,02:00,21:00,2,0
+939,Karachi Bakery,Fast Food,medium,Nolita,11:00,19:00,2,0
+940,Anand,Fast Food,expensive,Chinatown,06:00,20:00,5,1
+941,Chantilly,Coffee,expensive,Little Italy,02:00,17:00,2,0
+942,Mahaveer Food Point,Italian,medium,Washington Height,09:00,15:00,4,0
+943,Siddiqu Kabab Center,Lebanese,cheap,Hell's Kitchen,04:00,15:00,5,1
+944,Foodie's Call,Indian,cheap,Flatiron District,09:00,19:00,4,0
+945,Cremee,Destination Restaurant,medium,Red Hook,10:00,20:00,3,1
+946,Hunka Hunka Town,Chinese,medium,Dumbo,06:00,13:00,3,0
+947,Khichdi Etc,Chinese,medium,East Village,07:00,12:00,4,0
+948,CAFÈ JC's,Italian,expensive,Murray Hill,02:00,12:00,1,1
+949,Mudpipe Cafe,Buffet,medium,Tribeca,03:00,13:00,4,0
+950,Citrus - The Leela Palace,Italian,medium,SoHo,01:00,00:00,2,0
+951,Anand Sweets And Savouries,Destination Restaurant,cheap,Union Square,02:00,22:00,3,1
+952,Anupam Sweets,Family Style,expensive,Williamsburg,02:00,12:00,5,0
+953,JW Kitchen - JW Marriott Bengaluru,Thai,cheap,Brooklyn Heights,07:00,19:00,3,1
+954,South 54,Family Style,cheap,Hamilton Heights,05:00,12:00,4,1
+955,Catch 22,Fast Food,expensive,Flushing,02:00,19:00,2,1
+956,Rp's Pizzeria,Tabletop cooking,medium,Canarsie,09:00,00:00,4,0
+957,Bakers & Cook - By Gwalia,Thai,medium,Boerum Hill,07:00,23:00,3,1
+958,Mavalli Tiffin Room (MTR),Continental,expensive,Greenpoint,04:00,12:00,5,1
+959,Lezzetli,Turkish,medium,Long Island City,00:00,12:00,2,1
+960,Kovallam,Family Style,medium,Upper East Side,09:00,20:00,4,0
+961,Zodiac- Fortune Landmark,Lebanese,cheap,Hamilton Heights,05:00,20:00,3,1
+962,China House - Hyatt Regency,Turkish,expensive,Greenwich Village,02:00,12:00,4,0
+963,Ministry of Food - Hilton Bangalore Embassy GolfLinks,Premium Casual,cheap,Flatiron District,05:00,15:00,1,1
+964,New York Masala,Buffet,cheap,Williamsburg,00:00,21:00,3,0
+965,Jashuben Shah Old Pizza,Indian,cheap,Tribeca,00:00,16:00,2,1
+966,Jani Locho & Khaman House,Ethnic,medium,Morningside Heights,00:00,21:00,2,1
+967,Khetlaapa Cafe,Fast Casual,medium,Marble Hill,04:00,13:00,3,1
+968,Vince Cafe,Lebanese,cheap,Brooklyn Heights,06:00,23:00,5,1
+969,Tipsy Bull- The Bar Exchange,Fast Casual,expensive,SoHo,00:00,12:00,1,0
+970,The Chocolate Room,Fast Casual,expensive,Dumbo,09:00,12:00,5,1
+971,Bakers & Cook - By Gwalia,Brasserie and Bistro,expensive,Flatiron District,06:00,18:00,5,0
+972,MIY Bistro - Make It Yourself,Fast Casual,medium,Prospect Heights,02:00,13:00,4,0
+973,Gwalia Sweets,Premium Casual,expensive,Canarsie,05:00,18:00,5,1
+974,The Brewmaster - Arista Hotel,Destination Restaurant,cheap,Flatbush,07:00,17:00,4,1
+975,Laxmi Bakery,Pakistani,medium,Union Square,07:00,17:00,2,1
+976,The Escape,Thai,expensive,Chinatown,10:00,20:00,3,0
+977,Redberrys,Coffee,medium,Greenwich Village,03:00,18:00,3,0
+978,Terra,Casual Dining,medium,Financial District,09:00,18:00,3,0
+979,Om Sai Skanda Dosa Camp,Ethnic,medium,Boerum Hill,08:00,19:00,1,1
+980,Fresh n Fresh,Thai,expensive,Long Island City,03:00,12:00,2,1
+981,Peppa Zzing,Mongolian barbecue,expensive,Canarsie,10:00,12:00,1,1
+982,Tea Brew,Indian,expensive,Battery Park City,03:00,18:00,5,1
+983,Amnesia - Aarya Grand,Chinese,cheap,Harlem,00:00,00:00,1,1
+984,The Costa Rica Cafe,Indian,medium,Brooklyn Heights,05:00,21:00,2,1
+985,Katani Dhaba,Coffee,cheap,East Village,08:00,20:00,3,1
+986,The Bake House By Ummed,Fine Dining,expensive,Nolita,03:00,11:00,4,1
+987,WarmOven Cake & Desserts,Fine Dining,expensive,Harlem,07:00,13:00,4,0
+988,Masala Grill,Greasy Spoon,expensive,Prospect Heights,02:00,18:00,5,1
+989,Saanjh Baker's Cakes & Cafe,Greasy Spoon,cheap,Greenwich Village,09:00,16:00,3,0
+990,By 2 Coffee,Lebanese,cheap,Marble Hill,10:00,19:00,3,1
+991,The Bangalore Bakery,Mongolian barbecue,cheap,Financial District,05:00,22:00,3,0
+992,The Hedgehog Café,Thai,medium,Bushwick,08:00,20:00,3,0
+993,Cafe City Monk,Buffet,cheap,Lower East Side,09:00,21:00,3,0
+994,Market Table,Premium Casual,medium,Murray Hill,06:00,21:00,5,1
+995,Roastery Cultur - The Coffee Company,Tabletop cooking,medium,Hell's Kitchen,00:00,19:00,5,0
+996,Eating Love,Buffet,medium,Flatiron District,01:00,22:00,4,1
+997,Kazé,Turkish,medium,Marble Hill,08:00,19:00,4,1
+998,Cafe Upper Crust,Buffet,cheap,Brooklyn Heights,03:00,22:00,2,1
+999,Sagar Ratna,Destination Restaurant,medium,Greenpoint,10:00,23:00,4,1
+1000,Katani Dhaba,Fast Food,cheap,Hell's Kitchen,06:00,15:00,1,1

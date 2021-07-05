@@ -1,0 +1,111 @@
+////////////////////////////////////////
+////////////PART 1/////////////////////
+//////////////////////////////////////
+
+//CREATE TABLE RESTAURANTS:
+
+CREATE TABLE restaurants(
+ID INTEGER PRIMARY KEY,
+name TEXT NOT NULL,
+category TEXT NOT NULL,
+price_tier TEXT NOT NULL,
+neighborhood TEXT NOT NULL,
+open_hour TIME NOT NULL,
+close_hour TIME NOT NULL,
+avg_rating INTEGER NOT NULL,
+forKids BOOLEAN NOT NULL);
+
+//CREATE TABLE REVIEWS:
+
+CREATE TABLE reviews(
+ID INTEGER PRIMARY KEY,
+restaurant_ID INTEGER NOT NULL,
+review TEXT NOT NULL);
+
+//import data
+.mode csv
+.headers on
+.import --csv --skip 1 'data/restaurants_data.csv' restaurants
+
+//c1
+SELECT * FROM restaurants WHERE price_tier="cheap" AND neighborhood="Harlem";
+
+//c2
+SELECT * FROM restaurants WHERE category="Pakistani" AND avg_rating>2 ORDER BY avg_rating DESC;
+
+//c3
+SELECT * from restaurants where strftime('%H', 'now') > strftime('%H', open_hour) and strftime('%H', 'now') < strftime('%H', close_hour);
+
+//c4
+INSERT INTO reviews (restaurant_ID,review) VALUES (988,"Undercooked Steaks, bland taste, does not live up to the ratings");
+
+//c5
+DELETE FROM restaurants WHERE forKids=false;
+
+//c6
+SELECT neighborhood, count(ID) AS number_restaurants FROM restaurants GROUP BY neighborhood;
+
+
+
+
+////////////////////////////////////////
+////////////PART 2/////////////////////
+//////////////////////////////////////
+
+//create users table
+
+CREATE TABLE users(
+ID INTEGER PRIMARY KEY,
+email TEXT NOT NULL,
+password TEXT NOT NULL,
+handle TEXT NOT NULL);
+
+//create posts
+
+CREATE TABLE posts(
+ID INTEGER PRIMARY KEY,
+user_ID INTEGER NOT NULL,
+content TEXT NOT NULL,
+post_type TEXT NOT NULL,
+recepient_ID INTEGER DEFAULT NULL,
+visibility BOOLEAN DEFAULT TRUE,
+post_time DATETIME DEFAULT CURRENT_TIMESTAMP);
+
+//import data
+.mode csv
+.headers on
+.import --csv --skip 1 'data/users_data.csv' users
+.import --csv --skip 1 'data/posts_data.csv' posts
+
+//consistency
+UPDATE posts SET recepient_ID=NULL where recepient_ID="";
+
+//c1
+INSERT INTO users (email,password,handle) VALUES ("fake@nodomain.com","veryweakpassword","fakeAccount");
+
+//c2
+INSERT INTO posts (user_ID,content,post_type,recepient_ID) VALUES (926,"I am sending a test message","message",276);
+
+//c3
+INSERT INTO posts (user_ID,content,post_type) VALUES (679,"My test story is uploading","story");
+
+//c4
+SELECT * FROM posts WHERE visibility=true ORDER BY post_time DESC LIMIT 10;
+
+//c5
+SELECT * FROM posts WHERE post_type="message" AND user_ID=472 AND recepient_ID=557 AND visibility=true ORDER BY post_time DESC LIMIT 10;
+
+//c6
+UPDATE posts SET visibility=false WHERE ROUND((JULIANDAY('now') - JULIANDAY(post_time)) * 24) > 24;
+
+//c7
+SELECT * FROM posts WHERE visibility=false ORDER BY post_time DESC;
+
+//c8
+SELECT user_ID,COUNT(user_ID) AS num_posts FROM posts GROUP BY user_ID; 
+
+//c9
+SELECT email, content FROM users INNER JOIN posts ON users.ID=posts.user_ID WHERE ROUND((JULIANDAY('now') - JULIANDAY(post_time)) * 24) <= 24;
+
+//c10
+SELECT email FROM users LEFT JOIN posts on users.ID=posts.user_ID where content is NULL;
